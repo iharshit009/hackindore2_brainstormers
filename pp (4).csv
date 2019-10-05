@@ -1,0 +1,1106 @@
+Year,Month,State,Location,Food,Species
+2015,December,California,Catering Service,Alcohol,Norovirus unknown
+2015,January,Ohio,Restaurant,Alfredo Sauce,Staphylococcus unknown
+2015,March,Massachusetts,Restaurant,Appetizers,Norovirus genogroup II
+2015,October,Michigan,,"Apple Cider, Unpasteurized","Escherichia coli, Shiga toxin-producing"
+2015,October,Minnesota,Farm/Dairy,"Apple Cider, Unpasteurized","Escherichia coli, Shiga toxin-producing"
+2015,October,California,,"Apple Cider, Unspecified","Escherichia coli, Shiga toxin-producing"
+2015,January,Illinois,,Apple Juice,Unknown
+2015,May,Ohio,,"Apple Juice, Pasteurized",
+2015,May,Connecticut,Restaurant,Arepas,Norovirus genogroup I
+2015,April,Georgia,Restaurant,"Bacon, Egg, And Cheese Biscuit",Norovirus genogroup I
+2015,August,Florida,Private Home/Residence,Barracuda,Ciguatoxin
+2015,August,Florida,Ship/Boat,Barracuda,Ciguatoxin
+2015,August,Florida,Private Home/Residence,Barracuda,Ciguatoxin
+2015,August,Maryland,Private Home/Residence,Barracuda,Ciguatoxin
+2015,August,Louisiana,,Bean Dishes,Clostridium perfringens
+2015,April,New York,Restaurant,"Beans, Black",
+2015,October,Idaho,,"Bear, Unspecified",Trichinella
+2015,February,New York,Restaurant,Beef,
+2015,June,Ohio,Private Home/Residence,Beef,Clostridium perfringens
+2015,October,Minnesota,Private Home/Residence,Beef,"Escherichia coli, Shiga toxin-producing"
+2015,January,Washington,Restaurant,"Beef, Brisket",Bacillus cereus
+2015,December,Michigan,Catering Service,"Beef, Other",
+2015,January,Florida,Catering Service; Grocery Store,"Beef, Stew",
+2015,November,California,Private Home/Residence; Catering Service,"Beef, Unspecified",Norovirus unknown
+2015,June,Minnesota,Restaurant,Beef/Bean Mixture,Clostridium perfringens
+2015,July,Utah,Private Home/Residence,Beet Soup,Clostridium botulinum
+2015,February,Massachusetts,,Beets,
+2015,January,California,,Breads,Unknown
+2015,November,Wisconsin,Hospital,Broccoli Salad,
+2015,June,New York,Restaurant,Brownie With Whipped Cream,Norovirus genogroup II
+2015,March,Arizona,Banquet Facility,Bruschetta,Salmonella enterica
+2015,May,Illinois,Restaurant,"Bruschetta; Bruschetta; Chicken, Marsala","Shigella; Escherichia coli, Shiga toxin-producing; Norovirus; Salmonella enterica"
+2015,June,Maryland,Prison/Jail,Burritos,Clostridium perfringens
+2015,January,Florida,Grocery Store,Cake,Norovirus
+2015,June,Colorado,Unknown,Cake,
+2015,December,Michigan,Private Home/Residence,Cake,Norovirus genogroup II
+2015,April,Minnesota,Banquet Facility,"Cake, Carrot",Norovirus genogroup II
+2015,February,California,Restaurant; Banquet Facility,"Cake; Cheese; Eggs, Quiche; Petit Fours; Truffles; Coffee; Beverages; Water; Breads",Norovirus unknown
+2015,February,Ohio,Restaurant; Private Home/Residence,"Cantaloupe; Pineapple, Unspecified; Grapes",Norovirus genogroup II
+2015,July,California,Catering Service,Carne Asada,Norovirus unknown
+2015,June,Utah,,Carne Asada Steak,
+2015,May,California,Banquet Facility,"Carne Asada; Cilantro, Unspecified",Norovirus unknown
+2015,October,Michigan,Banquet Facility,"Cheese And Crackers; Fruit; Green Beans, Unspecified",Norovirus genogroup I
+2015,November,Idaho,,"Cheese, Unspecified, Unpasteurized",Campylobacter
+2015,July,Colorado,Private Home/Residence,Cheesecake; Cake,Salmonella enterica
+2015,March,Ohio,Restaurant,Chicken,Norovirus genogroup I
+2015,July,South Carolina,Religious Facility,Chicken,Staphylococcus aureus
+2015,October,Nebraska,Banquet Facility,Chicken And Noodles,Clostridium perfringens
+2015,August,Washington,Fast Food Restaurant,Chicken And Rice,Clostridium perfringens
+2015,April,New York,Restaurant,Chicken And Waffles,Salmonella enterica
+2015,July,Illinois,Catering Service,Chicken Breast,"Shigella; Escherichia coli, Shiga toxin-producing; Escherichia coli, Shiga toxin-producing; Salmonella enterica; Salmonella enterica"
+2015,November,Oregon,Restaurant,Chicken Coconut Curry,Sapovirus
+2015,August,Hawaii,Fast Food Restaurant,Chicken Katsu Plate; Korean Chicken,Salmonella enterica
+2015,March,Washington,Restaurant,Chicken Liver Pate,Campylobacter jejuni
+2015,December,Colorado,Restaurant,Chicken Liver Pate,Campylobacter
+2015,July,New York,Restaurant,Chicken Livers,Campylobacter jejuni
+2015,August,Maryland,Restaurant,Chicken Livers,Campylobacter jejuni
+2015,December,Ohio,Private Home/Residence,Chicken Mole,Clostridium perfringens
+2015,February,Washington,Fast Food Restaurant,Chicken Roll,Bacillus cereus
+2015,May,Maryland,Private Home/Residence,Chicken Salad,
+2015,October,Multistate,Grocery Store,Chicken Salad,"Escherichia coli, Shiga toxin-producing"
+2015,May,New York,Restaurant,Chicken Samosa,
+2015,November,Ohio,Fair/Festival,Chicken Sandwich,Norovirus genogroup II
+2015,July,Connecticut,Nursing Home/Assisted Living Facility,Chicken Tenders,Salmonella enterica
+2015,May,Minnesota,Restaurant,Chicken Vindaloo,Clostridium perfringens
+2015,April,Maryland,Fast Food Restaurant,"Chicken, Buffalo Wings",
+2015,October,Florida,Restaurant,"Chicken, Confit",Salmonella enterica
+2015,September,Wisconsin,School/College/University,"Chicken, Grilled",Campylobacter jejuni
+2015,October,Virginia,Restaurant,"Chicken, Grilled; Chicken, Blackened",Salmonella enterica
+2015,March,Texas,Catering Service,"Chicken, Grilled; Rice, Yellow; Beans, Unspecified",
+2015,May,Minnesota,Restaurant,"Chicken, Liver Mousse",Campylobacter jejuni; Campylobacter coli
+2015,June,Maryland,Restaurant,"Chicken, Liver Mousse",Campylobacter jejuni
+2015,September,Nevada,Banquet Facility,"Chicken, Liver; Chicken, Unspecified; Fish, Codfish; Fish, Salmon",Campylobacter jejuni
+2015,June,Alabama,Child Daycare,"Chicken, Other",Staphylococcus aureus
+2015,January,Texas,Restaurant,"Chicken, Roasted",Salmonella unknown
+2015,July,Hawaii,Grocery Store,"Chicken, Rotisserie",Salmonella enterica
+2015,August,Texas,Restaurant,"Chicken, Rotisserie",Salmonella enterica
+2015,April,Michigan,Restaurant,"Chicken, Shawarma",Salmonella enterica
+2015,May,North Dakota,School/College/University,"Chicken, Teriyaki",
+2015,January,Minnesota,Restaurant Buffet,"Chicken; Banana, Unspecified",Norovirus genogroup II
+2015,March,Michigan,Restaurant,Chicken; Salad; Eggs,Salmonella enterica
+2015,October,Colorado,Private Home/Residence,Chili White Chicken,Clostridium perfringens
+2015,February,Ohio,Private Home/Residence,Chipped Beef And Onion Cheese Ball,Norovirus
+2015,March,New York,Banquet Facility,Chips; Rolls; Pastries,Norovirus genogroup II
+2015,August,Kansas,Grocery Store,Chocolate Mousse,
+2015,October,Nevada,,Chocolate Mousse,"Escherichia coli, Shiga toxin-producing"
+2015,May,Multistate,Restaurant; Restaurant,"Cilantro, Unspecified",Cyclospora cayatenensis
+2015,May,New York,Restaurant,"Clams, Razor",
+2015,March,Minnesota,Fast Food Restaurant,Coleslaw,Salmonella enterica
+2015,June,Florida,Restaurant,Coleslaw,Staphylococcus
+2015,December,Wisconsin,Catering Service,"Cookies, Chocolate Chip",Norovirus genogroup II
+2015,March,Idaho,Farm/Dairy,"Cottage Cheese, Unpasteurized",Campylobacter
+2015,June,Missouri,Camp,Country Fried Steak; Mashed Potatoes,Campylobacter jejuni
+2015,January,Connecticut,Private Home/Residence,"Crab, Raw",Vibrio parahaemolyticus
+2015,July,Maryland,Restaurant,"Crab, Unspecified","Escherichia coli, Shiga toxin-producing"
+2015,July,Multistate,,Cucumber,Salmonella enterica
+2015,December,Connecticut,Restaurant,Cucumbers,Salmonella enterica
+2015,December,Ohio,Hospital,Cupcakes,Norovirus genogroup II
+2015,July,Hawaii,Restaurant,"Eel, Raw",
+2015,December,Oregon,,Eggnog,Salmonella enterica
+2015,April,Missouri,Restaurant; Private Home/Residence; Grocery Store,Eggs,Salmonella enterica; Salmonella enterica
+2015,December,Ohio,Restaurant,Eggs Benedict,Salmonella enterica
+2015,November,Utah,Catering Service,"Eggs, Scrambled",Salmonella enterica
+2015,December,Colorado,Restaurant,"Enchilada, Beef; Rice; Beans, Unspecified",Clostridium perfringens
+2015,March,Kansas,Catering Service,"Enchilada, Cheese; Salsa",Bacillus cereus
+2015,August,Florida,Restaurant,"Ethnic Style, Buffet",Bacillus cereus
+2015,August,California,Restaurant,Fajitas; Ice,
+2015,May,Florida,Catering Service,Fettucine Alfredo,Salmonella enterica
+2015,August,Maryland,Restaurant,Fettucine Alfredo,Sapovirus unknown
+2015,April,Hawaii,Fast Food Restaurant,Fish Taco,Salmonella enterica
+2015,July,Hawaii,Restaurant,"Fish, Ahi",Scombroid toxin
+2015,November,Hawaii,Fast Food Restaurant,"Fish, Ahi",Scombroid toxin
+2015,August,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2015,August,Washington DC,Office/Indoor Workplace,"Fish, Amberjack",Ciguatoxin
+2015,September,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2015,October,Wisconsin,Restaurant,"Fish, Amberjack",Ciguatoxin
+2015,July,Florida,Restaurant,"Fish, Amberjack; Fish, Hogfish",Ciguatoxin
+2015,March,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2015,June,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2015,June,Maryland,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2015,September,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2015,September,Maryland,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2015,December,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2015,August,Florida,Private Home/Residence,"Fish, Grouper",Ciguatoxin
+2015,January,Puerto Rico,Private Home/Residence,"Fish, Hogfish",Ciguatoxin
+2015,September,Florida,Private Home/Residence,"Fish, Jack",Ciguatoxin
+2015,September,Florida,Private Home/Residence,"Fish, Kingfish",Ciguatoxin
+2015,March,New York,Grocery Store,"Fish, Mahi Mahi",Scombroid toxin
+2015,July,Pennsylvania,Private Home/Residence,"Fish, Puffer Unspecified",Puffer fish tetrodotoxin
+2015,January,Florida,Private Home/Residence,"Fish, Snapper",Ciguatoxin
+2015,February,Colorado,Private Home/Residence,"Fish, Tuna",Scombroid toxin
+2015,September,Florida,,Flavored Drink,Chemical or toxin
+2015,December,Washington,Restaurant,Foie Gras,Campylobacter unknown
+2015,May,Oregon,Restaurant,French Fries,Norovirus genogroup II
+2015,January,Minnesota,Restaurant,"French Fries; Spinach Artichoke Dip; Quesadilla, Chicken",Unknown
+2015,May,Hawaii,Restaurant,Fried Corn Tortilla,
+2015,January,Virginia,Restaurant,"Fried Rice, Unspecified",Norovirus genogroup II
+2015,September,Ohio,Restaurant Buffet,"Fried Rice, Unspecified",Bacillus cereus
+2015,August,Arizona,,Frog Legs,Salmonella enterica
+2015,August,Washington,,Frozen Yogurt,
+2015,May,Wisconsin,Catering Service,Fruit Salad,Norovirus genogroup II
+2015,June,Ohio,,Fudge Bar,Chemical or toxin
+2015,February,Montana,Restaurant,Garden Salad,Salmonella enterica
+2015,January,Texas,,Ginger,
+2015,May,California,,"Goat Milk, Unpasteurized",Campylobacter jejuni
+2015,September,Minnesota,Restaurant,"Goulash, Unspecified",Clostridium perfringens
+2015,December,Wisconsin,Banquet Facility,"Gravy, Pork",Clostridium perfringens
+2015,October,Pennsylvania,Restaurant,"Gravy, Sausage",
+2015,December,New York,Catering Service,Greek Salad,Norovirus genogroup II
+2015,November,Florida,Banquet Facility,Green Beans,
+2015,October,Colorado,Restaurant,Green Chile,Clostridium perfringens
+2015,October,Iowa,Grocery Store,Ground Beef,Clostridium perfringens
+2015,February,California,Fast Food Restaurant,"Ground Beef, Cheeseburger",Norovirus unknown
+2015,April,California,Restaurant,"Ground Beef, Hamburger",Norovirus unknown
+2015,September,Massachusetts,Private Home/Residence,"Ground Beef, Hamburger","Escherichia coli, Shiga toxin-producing"
+2015,September,Minnesota,Banquet Facility,"Ground Beef, Unspecified",Clostridium perfringens
+2015,February,Oregon,Restaurant,Guacamole,Norovirus genogroup II
+2015,April,California,Banquet Facility,Guacamole,Norovirus unknown
+2015,July,Illinois,Grocery Store,Guacamole,Norovirus
+2015,August,Minnesota,Restaurant,Guacamole,Salmonella enterica
+2015,August,Tennessee,Private Home/Residence; Catering Service,Guacamole; Corn Salsa; Tacos,"Escherichia coli, Enteroaggregative; Escherichia coli, Enteropathogenic"
+2015,May,Rhode Island,Restaurant,Ham,Staphylococcus aureus
+2015,August,West Virginia,Private Home/Residence,Ham,Staphylococcus aureus
+2015,May,Utah,,Ham And Rice With Cream Of Mushroom Soup,Staphylococcus aureus
+2015,November,Tennessee,Restaurant,Hamburger,"Escherichia coli, Shiga toxin-producing"
+2015,June,Washington,Restaurant,Hollandaise Sauce; Eggs Benedict,Salmonella enterica
+2015,April,Ohio,Private Home/Residence,Home Made Potato Salad,Clostridium botulinum
+2015,October,Ohio,Restaurant,Honey Mustard Carrot And Cauliflower Salad,Chemical or toxin
+2015,March,Georgia,Prison/Jail,Hot Dog; Pork And Beans,Clostridium perfringens
+2015,April,Minnesota,Restaurant,House Salad,Salmonella enterica
+2015,April,Ohio,,Hummus,
+2015,January,Florida,Restaurant,Ice,
+2015,May,Minnesota,Restaurant,Ice,Norovirus genogroup II
+2015,July,California,Restaurant; Banquet Facility,Ice,Norovirus unknown
+2015,August,Nevada,Camp,Ice,Salmonella enterica
+2015,December,Georgia,Fast Food Restaurant,Ice Cream,Norovirus genogroup II
+2015,July,Iowa,,"Ice Cream, Homemade",Salmonella enterica
+2015,July,Ohio,,"Ice Cream, Homemade",Salmonella enterica
+2015,April,Texas,Restaurant,Ice Water,
+2015,August,Washington,Grocery Store,"Kale, Unspecified; Pineapple Juice,Unpasteurized","Escherichia coli, Shiga toxin-producing"
+2015,March,Colorado,Private Home/Residence,Lasagna,Salmonella enterica
+2015,March,Multistate,Unknown,Latin Style Soft Cheese,Salmonella enterica
+2015,March,Multistate,Restaurant,Lettuce,Salmonella enterica
+2015,November,Oregon,Restaurant,Lettuce,Norovirus genogroup II
+2015,June,Multistate,,"Lettuce, Prepackaged",Listeria monocytogenes
+2015,May,Washington,Restaurant,"Lettuce; Tomato (See Fruit); Tortilla, Unspecified",Norovirus unknown
+2015,December,Hawaii,Restaurant,Lilikoi Chiffon Pie,Salmonella enterica
+2015,June,South Carolina,Restaurant,Lobster Salad,Salmonella enterica
+2015,July,New York,Catering Service,Macaroni And Cheese,Staphylococcus aureus
+2015,December,Ohio,Restaurant,Macaroni And Cheese,Bacillus cereus; Staphylococcus aureus
+2015,December,Utah,Private Home/Residence,Meal Replacement Powder,Salmonella enterica
+2015,November,Illinois,Private Home/Residence,Meat,Salmonella enterica
+2015,July,New York,Restaurant,Meat; Rice,Clostridium perfringens
+2015,June,Michigan,,"Milk, Unpasteurized",Campylobacter unknown
+2015,September,Idaho,Farm/Dairy,"Milk, Unpasteurized","Campylobacter jejuni; Escherichia coli, Shiga toxin-producing"
+2015,December,Ohio,Farm/Dairy,"Milk, Unpasteurized",Campylobacter jejuni
+2015,February,California,,"Milk, Whole Milk Unpasteurized",Campylobacter jejuni
+2015,April,Utah,,"Milk, Whole Milk Unpasteurized",Salmonella enterica
+2015,January,Connecticut,Restaurant,Mimosa,Norovirus genogroup II
+2015,June,Illinois,Grocery Store,Mole Sauce,Salmonella enterica; Norovirus; Salmonella enterica
+2015,March,Minnesota,Restaurant,"Mostaccioli, Unspecified",Norovirus genogroup II
+2015,January,Colorado,,"Muffin, Unspecified",
+2015,December,Connecticut,Catering Service,Multiple Foods,Norovirus genogroup I
+2015,December,Florida,Catering Service,Multiple Foods,
+2015,January,Florida,Restaurant,Mushroom And Swiss Hamburger Sandwich,
+2015,March,New York,Restaurant,Mushroom Burger,
+2015,April,Georgia,Restaurant,"Nachos, Unspecified",Norovirus genogroup II
+2015,June,Colorado,Restaurant,Omelette; Crepes,Norovirus
+2015,May,Ohio,Fast Food Restaurant,"Omelette; Eggs, Scrambled",
+2015,December,Connecticut,Restaurant,Ox Tongue & Tripe,Salmonella enterica
+2015,November,Oregon,Restaurant,Oyster Shooters,Norovirus genogroup I
+2015,February,California,Restaurant,"Oysters, Raw",Norovirus unknown; Salmonella enterica
+2015,March,Colorado,Restaurant,"Oysters, Raw",Norovirus
+2015,March,New York,Restaurant,"Oysters, Raw",
+2015,March,Wisconsin,Restaurant,"Oysters, Raw",Norovirus genogroup I
+2015,May,New York,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2015,June,Florida,,"Oysters, Raw",Vibrio parahaemolyticus
+2015,June,Multistate,Restaurant,"Oysters, Raw",Salmonella enterica
+2015,July,Washington,,"Oysters, Raw",Vibrio parahaemolyticus
+2015,September,Hawaii,Restaurant,"Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II
+2015,November,Hawaii,Restaurant,"Oysters, Raw",Norovirus genogroup I; Norovirus genogroup II
+2015,December,California,Banquet Facility,"Oysters, Raw",Norovirus unknown
+2015,December,Florida,,"Oysters, Raw",Vibrio vulnificus
+2015,June,Multistate,Restaurant; Fair/Festival,"Oysters, Raw; Clams, Raw",Vibrio parahaemolyticus
+2015,July,Ohio,Restaurant,Pasta,Chemical or toxin
+2015,August,Ohio,Restaurant,"Pastry, Custard-Filled",Salmonella enterica
+2015,February,Virginia,Private Home/Residence,"Peas, Green",Norovirus genogroup II
+2015,February,New York,Restaurant,Pizza,
+2015,September,Nevada,Fast Food Restaurant,Pizza,Norovirus genogroup II
+2015,December,California,Fast Food Restaurant,Pizza,
+2015,December,Multistate,Restaurant,Pizza Dough Mix,"Escherichia coli, Shiga toxin-producing"
+2015,December,Florida,Restaurant,"Pizza, Mushrooms, Black Olives, Pepperoni",
+2015,October,Colorado,Catering Service,"Pizza, Pepperoni; Pizza, Cheese",Clostridium perfringens
+2015,December,Minnesota,Restaurant,"Pizza; Pizza, Sausage; Cookies, Chocolate Chip",Norovirus genogroup II
+2015,March,Kansas,School/College/University,Popcorn,Norovirus genogroup I
+2015,April,Multistate,Restaurant; Private Home/Residence; Banquet Facility; Catering Service; Grocery Store,Pork,Salmonella enterica; Salmonella enterica
+2015,June,Minnesota,Private Home/Residence,Pork,Salmonella enterica
+2015,June,Oregon,Restaurant; Private Home/Residence,Pork,Salmonella enterica
+2015,August,California,Private Home/Residence,Pork,Staphylococcus aureus
+2015,October,Illinois,Grocery Store,Pork,Salmonella enterica; Salmonella enterica
+2015,October,Virginia,Catering Service; Fair/Festival,Pork,Clostridium perfringens
+2015,May,Tennessee,Catering Service,Pork Tenderloin,Norovirus genogroup II; Norovirus
+2015,June,Florida,Restaurant,"Pork, Bbq",Staphylococcus aureus
+2015,June,North Carolina,Restaurant,"Pork, Bbq",Salmonella enterica
+2015,August,South Carolina,,"Pork, Bbq",Clostridium perfringens
+2015,May,Wisconsin,Grocery Store,"Pork, Carnitas",Salmonella enterica
+2015,November,Georgia,Grocery Store,"Pork, Carnitas",Salmonella enterica
+2015,August,Rhode Island,Private Home/Residence,"Pork, Roasted",Salmonella enterica; Salmonella enterica
+2015,September,Florida,Catering Service,"Pork, Roasted; Rice, Spanish",
+2015,June,Colorado,Banquet Facility; Unknown,Pork; Green Onion/Scallion,"Escherichia coli, Shiga toxin-producing"
+2015,October,Illinois,Restaurant Buffet,Pot Roast,Unknown
+2015,December,Multistate,Private Home/Residence,Powder Meal Replacement,Salmonella enterica
+2015,October,Multistate,,Pre-Packaged Salad,"Escherichia coli, Shiga toxin-producing"
+2015,April,Multistate,,Prepackaged Leafy Greens,"Escherichia coli, Shiga toxin-producing"
+2015,May,New York,Restaurant,Provolone; Pepper Steak,
+2015,June,Wisconsin,Catering Service,Pulled Pork,Clostridium perfringens
+2015,September,Illinois,Catering Service,Pulled Pork,Clostridium perfringens
+2015,November,Illinois,Catering Service,Pulled Pork,Clostridium perfringens
+2015,December,Colorado,Private Home/Residence,Pulled Pork,Clostridium perfringens
+2015,March,Texas,Restaurant,"Quesadilla, Beef/Steak; Chips And Salsa",
+2015,March,Texas,,Raw Milk,"Escherichia coli, Shiga toxin-producing"
+2015,April,Texas,,Raw Milk,Campylobacter unknown
+2015,May,Massachusetts,Farm/Dairy,Raw Milk,Campylobacter unknown
+2015,June,Tennessee,,Raw Milk,Cryptosporidium
+2015,October,Utah,,Raw Milk,Salmonella enterica
+2015,August,Minnesota,Restaurant; Private Home/Residence,Raw Oysters,Vibrio parahaemolyticus
+2015,February,Ohio,Catering Service,Rendang; Sate Ayam,Bacillus unknown; Clostridium perfringens
+2015,November,Michigan,Grocery Store,Ribs,
+2015,December,Colorado,Restaurant,"Ribs, Bbq; Tea",Bacillus cereus; Staphylococcus aureus
+2015,February,California,Fast Food Restaurant,Rice,Bacterium
+2015,November,California,Catering Service; Grocery Store,Rice,Norovirus unknown
+2015,August,Washington,Fast Food Restaurant,"Rice, Brown; Salsa; Chicken",Norovirus genogroup II
+2015,April,Georgia,Restaurant,"Rice, Fried Rice",Clostridium perfringens
+2015,September,Colorado,Private Home/Residence,"Rice, Spanish; Chili Colorado; Chili Verde",Clostridium perfringens
+2015,August,Illinois,Catering Service,Roast Beef With Mushroom Burgundy Sauce,Salmonella enterica
+2015,March,Multistate,Fast Food Restaurant; Restaurant; Private Home/Residence; Grocery Store,"Romaine Lettuce, Unspecified","Escherichia coli, Shiga toxin-producing"
+2015,February,Connecticut,Catering Service,Salad,Norovirus genogroup II
+2015,April,Michigan,Banquet Facility,Salad,
+2015,May,Ohio,Banquet Facility,Salad,Norovirus genogroup II
+2015,May,Virginia,Restaurant; Catering Service,Salad,Norovirus genogroup II; Norovirus genogroup II
+2015,October,Illinois,Restaurant,Salad,Norovirus
+2015,October,Maryland,Restaurant,Salad,Norovirus genogroup II
+2015,November,Connecticut,Restaurant,Salad,Norovirus
+2015,July,Florida,Restaurant,Salad Bar Items,Norovirus unknown
+2015,January,Michigan,Restaurant,"Salad, Other; Salad",
+2015,March,California,Restaurant,"Salad, Unspecified",Norovirus unknown
+2015,May,Ohio,Banquet Facility,"Salad, Unspecified",Norovirus genogroup II
+2015,July,Florida,Restaurant,"Salad, Unspecified",Norovirus genogroup II
+2015,April,Connecticut,Restaurant,"Salad, Unspecified; Sandwich, Unspecified",Salmonella enterica
+2015,June,Washington,Banquet Facility,"Salmon, Smoked; Cheese",Norovirus genogroup I
+2015,March,Iowa,Private Home/Residence,"Salmon, Unspecified",Histamine
+2015,February,Oregon,Restaurant,Salsa,Norovirus genogroup II
+2015,June,Michigan,Restaurant,Salsa,Norovirus genogroup II
+2015,August,Multistate,Fast Food Restaurant,Salsa,Salmonella enterica
+2015,November,California,Restaurant,Salsa,Shigella sonnei
+2015,December,Wisconsin,Private Home/Residence,Salsa,Norovirus genogroup II
+2015,May,Illinois,Restaurant,"Sandwich, Fajita","Shigella; Salmonella enterica; Escherichia coli, Shiga toxin-producing; Norovirus"
+2015,May,California,Restaurant,"Sandwich, Gyro",
+2015,December,New York,Grocery Store,"Sandwich, Ham; Sandwich, Tuna Salad",Norovirus genogroup I
+2015,June,Ohio,Unknown,"Sandwich, Meatball",Norovirus
+2015,October,Connecticut,School/College/University,"Sandwich, Unspecified",Norovirus genogroup I
+2015,May,Utah,,"Sausage, Unspecified",
+2015,May,Alaska,Private Home/Residence,"Seal, Flipper",Clostridium botulinum
+2015,January,Wisconsin,Banquet Facility,Shredded Chicken,Clostridium perfringens
+2015,August,Texas,,Shrimp Cocktail,Salmonella unknown
+2015,August,California,Office/Indoor Workplace,Shrimp Coconut; Vegetables,Norovirus unknown
+2015,March,Minnesota,Restaurant,"Soda, Unspecified; Ice",Norovirus genogroup II
+2015,June,Minnesota,Private Home/Residence; Banquet Facility,"Soup, Other",Clostridium perfringens
+2015,January,Oregon,Private Home/Residence,Sour Cream,Listeria monocytogenes
+2015,March,Minnesota,Fast Food Restaurant,Sour Cream,Norovirus genogroup II
+2015,October,Florida,Private Home/Residence,Spaghetti W/Meat Sauce And Spaghetti W/Cheese,Salmonella enterica
+2015,February,Nevada,Restaurant,Spices,Salmonella enterica
+2015,February,Idaho,Restaurant,"Spring Rolls, Unspecified",Salmonella enterica
+2015,April,California,Restaurant,"Spring Rolls, Unspecified",Norovirus unknown
+2015,July,Multistate,,Sprouted Nut Butter,Salmonella enterica
+2015,May,Maryland,,Strawberry Sauce,Norovirus genogroup I
+2015,April,Multistate,Private Home/Residence,Stuffed Chicken,Salmonella enterica
+2015,May,Minnesota,Private Home/Residence,Stuffed Chicken,Salmonella enterica
+2015,December,New Hampshire,,Stuffed Mushroom,
+2015,March,Wisconsin,Fast Food Restaurant,Sushi,Salmonella enterica
+2015,July,Maryland,Restaurant,Sushi,Norovirus genogroup II
+2015,September,Multistate,,Sushi,Salmonella enterica
+2015,November,Georgia,Restaurant,Sushi,Norovirus unknown
+2015,June,Tennessee,Restaurant,"Sushi, Raw",Salmonella enterica
+2015,August,California,Catering Service,"Sushi, Unspecified",Bacterium
+2015,June,Oregon,Catering Service; Fair/Festival,Thai Food,Salmonella enterica
+2015,November,Florida,Prison/Jail,Thanksgiving Meal,Salmonella enterica
+2015,April,Florida,Restaurant,"Tomato, Basil And Mozzarella Salad",
+2015,May,Multistate,Fast Food Restaurant; Grocery Store,Tomatoes,Salmonella enterica
+2015,May,Kansas,Restaurant,"Tomatoes, Raw; Ground Beef",Salmonella enterica
+2015,October,Wyoming,Prison/Jail,Tortilla Chips,
+2015,January,Florida,Restaurant,"Tortilla Chips; Salsa, Unspecified; Enchiladas",
+2015,September,Arizona,Prison/Jail,Tossed Salad,Salmonella enterica
+2015,August,Multistate,Restaurant,Truffle Olive Puree,Salmonella enterica
+2015,March,New York,Restaurant,Tuna Burger,Scombroid toxin
+2015,May,New York,Restaurant,Tuna Burger,Scombroid toxin
+2015,May,New York,,Tuna Burger,Scombroid toxin
+2015,January,South Carolina,Restaurant,Tuna Steak,Scombroid toxin
+2015,April,South Carolina,Restaurant,Tuna Steak,Scombroid toxin
+2015,May,Multistate,Restaurant; Grocery Store,Tuna Sushi,Salmonella enterica
+2015,August,Multistate,Restaurant; Grocery Store,Tuna Sushi,Salmonella enterica
+2015,March,Multistate,Restaurant; Grocery Store; Office/Indoor Workplace,"Tuna, Raw",Salmonella enterica; Salmonella enterica
+2015,March,South Carolina,School/College/University,Turkey,
+2015,April,Iowa,Private Home/Residence,Turkey,Salmonella enterica
+2015,July,Michigan,Camp,Turkey,Clostridium perfringens
+2015,November,Washington,Private Home/Residence,Turkey,Salmonella enterica
+2015,December,Iowa,Grocery Store,Turkey,Salmonella enterica
+2015,December,Maryland,Catering Service,Turkey And Gravy,
+2015,November,North Carolina,Private Home/Residence,Turkey And Stuffing,Clostridium perfringens
+2015,June,Washington,Private Home/Residence,"Turkey Tails (Butts); Chicken, Bbq",Salmonella enterica
+2015,March,Idaho,Banquet Facility,"Turkey, Ground",Salmonella enterica
+2015,November,Ohio,Private Home/Residence,"Turkey, Smoked; Stuffing/Dressing",Salmonella enterica
+2015,October,Texas,,Turkey; Stuffing/Dressing,Salmonella enterica
+2015,September,Ohio,Office/Indoor Workplace,Vietnamese Sandwich (Chicken And Bbq Pork),Campylobacter
+2015,January,Hawaii,,Walu Fish,Unknown
+2015,September,South Carolina,,"Yogurt, Unspecified",Clostridium perfringens
+2015,December,South Carolina,Restaurant,Zucchini,Bacillus cereus
+2014,December,Minnesota,Restaurant,Appetizers; Appetizers; Artichoke Dip,Norovirus genogroup I
+2014,September,Arizona,Fair/Festival,"Apple Cider, Unpasteurized",Campylobacter jejuni
+2014,December,Wisconsin,Restaurant,Artichoke Dip,Norovirus genogroup II
+2014,December,California,Restaurant,"Avocado, Unspecified",Norovirus unknown
+2014,December,Massachusetts,Fast Food Restaurant,Bacalhau A Gomes De Sa,Salmonella enterica
+2014,May,Washington,Restaurant,"Basil, Unspecified",Salmonella enterica
+2014,October,Wisconsin,Catering Service,"Beans, Baked",Salmonella enterica; Salmonella enterica
+2014,October,Georgia,Restaurant,"Beans, Black",
+2014,February,California,Catering Service,"Beans, Unspecified",
+2014,November,South Carolina,Restaurant,Beef,
+2014,April,Texas,Restaurant,"Beef, Bbq; Chicken; Pie, Pecan",
+2014,March,Kansas,Restaurant,"Beef, Brisket; Ribs, Unspecified; Smoked Sausage; Chicken",Clostridium perfringens
+2014,July,Massachusetts,Private Home/Residence,"Beef, Chili",
+2014,May,Texas,Restaurant,Beef; Charro Beans; Rice,
+2014,June,Washington,Restaurant; Private Home/Residence,"Beef; Lamb; Pork, Roasted",Salmonella enterica; Salmonella enterica; Salmonella enterica
+2014,September,New York,Restaurant,Beer,Chemical or toxin
+2014,July,Alaska,Camp,Black Bear Meat,Trichinella spiralis
+2014,October,Alaska,Private Home/Residence,Black Bear Meat,Trichinella spiralis
+2014,November,California,,Blood Sausage,Salmonella enterica
+2014,April,Pennsylvania,,"Blueberries; Danish; Pancakes, Unspecified; Chicken; Carrots, Unspecified; Cookies, Unspecified; Paella; Potato, Whipped; Lamb; Peppers; Coconut Rice Pudding; Grape Tomatoes",Bacillus cereus
+2014,August,Connecticut,Catering Service,Breaded Chicken Cutlets,Bacillus cereus
+2014,December,Minnesota,Catering Service,Breakfast Sandwich,Norovirus genogroup II
+2014,October,Colorado,Nursing Home/Assisted Living Facility,Broccoli Salad,Bacterium
+2014,July,Maryland,Restaurant,Broiled Salmon With Shrimp Scampi,
+2014,April,Florida,Restaurant,Buffet,Norovirus unknown
+2014,November,Florida,Restaurant,Buffet,Norovirus genogroup II
+2014,December,Florida,,Buffet,Norovirus genogroup II
+2014,April,Colorado,Private Home/Residence,"Burrito, Chili Verde",Clostridium perfringens
+2014,February,Ohio,Fast Food Restaurant,Burritos,Norovirus genogroup II
+2014,April,Michigan,Restaurant,Burritos,Clostridium perfringens
+2014,May,California,Restaurant,Burritos,Scombroid toxin
+2014,June,Minnesota,Restaurant,Cabbage,"Escherichia coli, Shiga toxin-producing"
+2014,June,Multistate,Restaurant,Cabbage,"Escherichia coli, Shiga toxin-producing"
+2014,March,Minnesota,Fast Food Restaurant,Caesar Salad,Norovirus genogroup II
+2014,October,New York,Restaurant,Caesar Salad; Breads,Norovirus genogroup II
+2014,March,Indiana,Unknown,"Candy, Fruit-Flavored Chewy",Chemical or toxin
+2014,April,Multistate,Private Home/Residence,Cantaloupe,Salmonella enterica
+2014,October,Multistate,,Caramel Apple,Listeria monocytogenes
+2014,October,Illinois,Grocery Store,"Carnitas, Unspecified",Salmonella enterica; Salmonella enterica
+2014,April,California,Catering Service; School/College/University,Carrot Salad,Norovirus unknown
+2014,December,Multistate,Private Home/Residence,Cashews,Salmonella enterica
+2014,September,Minnesota,Restaurant,Ceviche; Tacos,Norovirus genogroup II
+2014,May,Texas,Restaurant,Charro Beans,
+2014,December,Florida,Restaurant,Cheese And Crackers,Norovirus genogroup I
+2014,June,West Virginia,Restaurant,Cheese Dip,Bacillus cereus
+2014,February,California,Restaurant,Cherry Tomato,
+2014,January,Multistate,Private Home/Residence,Chia Seed Powder,Salmonella enterica; Salmonella enterica; Salmonella enterica
+2014,January,Texas,Restaurant,Chicken,
+2014,February,Ohio,Restaurant,Chicken,Salmonella enterica
+2014,April,Utah,Restaurant,Chicken,Salmonella enterica; Salmonella enterica
+2014,May,Connecticut,Restaurant,Chicken,Salmonella enterica
+2014,June,Florida,Prison/Jail,Chicken,Salmonella enterica
+2014,July,California,Restaurant; Catering Service,Chicken,Norovirus unknown
+2014,July,California,Restaurant; Catering Service,Chicken,Norovirus unknown
+2014,August,California,Private Home/Residence; Catering Service,Chicken,Salmonella enterica
+2014,August,Iowa,Private Home/Residence,Chicken,Campylobacter jejuni
+2014,September,Minnesota,Private Home/Residence,Chicken,Salmonella enterica
+2014,February,Texas,Catering Service,Chicken Dishes,Salmonella enterica
+2014,August,Florida,Restaurant,Chicken Dishes,
+2014,August,Massachusetts,Restaurant,Chicken Liver Pate,Campylobacter jejuni; Salmonella enterica
+2014,January,New York,Restaurant,Chicken Nachos,
+2014,May,Illinois,Restaurant,Chicken Salad,Norovirus genogroup II
+2014,September,Washington,Private Home/Residence,Chicken Salad,Salmonella enterica
+2014,June,Florida,,Chicken Suiza,Bacillus cereus
+2014,March,New York,Restaurant,Chicken Taco Salad,
+2014,January,California,Restaurant,"Chicken, Buffalo Wings",
+2014,January,Massachusetts,Private Home/Residence,"Chicken, Casserole",Salmonella enterica
+2014,April,Virginia,Private Home/Residence; Catering Service,"Chicken, Curry; Chicken, Other",Clostridium perfringens
+2014,October,Ohio,Fast Food Restaurant,"Chicken, Fried",
+2014,June,Kentucky,Restaurant,"Chicken, Fried; Dressing; Ham; Turkey; Bread, Crumbs",Salmonella enterica
+2014,June,Pennsylvania,Private Home/Residence; Grocery Store,"Chicken, Fried; Pasta Salad",Norovirus unknown
+2014,September,California,Fast Food Restaurant,"Chicken, Grilled",Salmonella enterica
+2014,August,Minnesota,Private Home/Residence,"Chicken, Kiev",Salmonella enterica
+2014,September,Vermont,Nursing Home/Assisted Living Facility,"Chicken, Liver Mousse",Campylobacter jejuni; Campylobacter coli
+2014,April,Maryland,,"Chicken, Marsala",Clostridium perfringens; Norovirus genogroup II
+2014,September,Wisconsin,Grocery Store,"Chicken, Rotisserie",Chemical or toxin
+2014,May,Oklahoma,Catering Service,"Chicken, Smoked",Salmonella enterica
+2014,December,Georgia,Catering Service,"Chicken, Smoked",Salmonella enterica
+2014,July,Rhode Island,Fast Food Restaurant,"Chicken, Stew",Clostridium perfringens
+2014,February,Texas,Restaurant,Chicken; Broccoli; Carrots,
+2014,February,Ohio,Restaurant,Chicken; Lettuce,Norovirus genogroup II
+2014,December,Colorado,Restaurant,Chicken; Rice,Bacterium
+2014,June,Illinois,Restaurant,"Chicken; Salad, Unspecified",Salmonella enterica
+2014,November,Illinois,Restaurant,Chilaquiles,Salmonella enterica
+2014,May,Texas,,Chili Con Queso,Norovirus genogroup II
+2014,June,South Carolina,,"Chips, Tortilla",Norovirus genogroup II
+2014,August,Colorado,,Chocolate Bar,Unknown
+2014,January,Minnesota,Restaurant; Catering Service,Chocolate Covered Strawberries,Norovirus genogroup II
+2014,May,Virginia,,"Chocolate Milk, Pasteurized; Milk, 2% Milk Pasteurized",Bacterium
+2014,May,Multistate,Fast Food Restaurant; Restaurant,Clover Sprouts,"Escherichia coli, Shiga toxin-producing"
+2014,November,Minnesota,Restaurant,Cobb Salad,Norovirus genogroup II
+2014,July,Florida,Fast Food Restaurant,Coffee,Cleaning agents
+2014,August,Michigan,Banquet Facility,Coleslaw; Dips,Bacillus cereus
+2014,November,Minnesota,Restaurant,Cookies; Salad Greens,Norovirus genogroup II
+2014,December,New York,School/College/University,Corn And Bean Salad,Norovirus genogroup II
+2014,July,Maryland,Restaurant,Crab,
+2014,April,New York,Restaurant,Crab Legs,Salmonella enterica
+2014,March,Minnesota,Restaurant,Cranberry Cole Slaw,Norovirus genogroup II
+2014,May,Louisiana,Restaurant,"Crawfish/Crayfish, Unspecified",Salmonella enterica
+2014,July,Mississippi,Fast Food Restaurant,"Crawfish/Crayfish, Unspecified",Salmonella enterica
+2014,May,Multistate,Fast Food Restaurant; Restaurant; Restaurant; Private Home/Residence; Grocery Store; Long-Term Care/Nursing Home/As...,Cucumber,Salmonella enterica
+2014,July,New York,Unknown,Cucumber,Salmonella enterica
+2014,May,Texas,Restaurant,"Cucumber Salad; Chicken, Bbq",
+2014,October,Multistate,,"Cucumber, Mini",Salmonella enterica
+2014,November,Illinois,,"Cucumbers (English, Mini, And Persian)",Salmonella enterica
+2014,April,Minnesota,Unknown,Cupcakes,Norovirus genogroup I
+2014,August,California,Restaurant; Catering Service,Daal (Common Ingredients In Indian Cuisine),Bacillus cereus
+2014,March,Florida,Private Home/Residence,Dairy,Campylobacter unknown
+2014,September,Texas,,"Deli Meat, Sliced Roast Beef",
+2014,May,Illinois,Grocery Store,Deli Products; Chicken,Salmonella enterica
+2014,October,Connecticut,Restaurant,Duck,Campylobacter jejuni
+2014,August,Florida,Restaurant,Egg Rolls,Staphylococcus aureus
+2014,June,Georgia,Private Home/Residence,Egg Salad/Egg Salad Sandwich,Salmonella enterica
+2014,June,Maryland,Prison/Jail,Egg Salad/Egg Salad Sandwich,Staphylococcus aureus
+2014,November,New Jersey,,"Egg-Containing Food, Other",Salmonella enterica
+2014,July,Florida,Restaurant,Egg-In-Muffin-Style Sandwich,
+2014,July,Maryland,Restaurant,Eggs,Salmonella enterica
+2014,July,Texas,,"Eggs, Unspecified",
+2014,August,Alaska,,Fermented Fish Heads,Clostridium botulinum
+2014,April,Arizona,Banquet Facility,Fettuccine Alfredo,Bacillus cereus
+2014,June,Texas,Banquet Facility,Fettuccine Alfredo,Campylobacter jejuni
+2014,September,Florida,Private Home/Residence,"Fish, Almaco Jack",Ciguatoxin
+2014,March,Georgia,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2014,May,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2014,June,Florida,Restaurant,"Fish, Amberjack",Ciguatoxin
+2014,July,Florida,Restaurant,"Fish, Amberjack",Ciguatoxin
+2014,August,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2014,August,Florida,,"Fish, Amberjack",Ciguatoxin
+2014,August,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2014,September,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2014,April,New York,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2014,May,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2014,August,Florida,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2014,September,Florida,Private Home/Residence,"Fish, Grouper",Ciguatoxin
+2014,May,California,Fast Food Restaurant,"Fish, Mackeral",Scombroid toxin
+2014,August,Florida,Restaurant,"Fish, Mahi Mahi",Scombroid toxin
+2014,March,Florida,Restaurant,"Fish, Other",
+2014,June,Minnesota,Private Home/Residence,"Fish, Puffer Unspecified",Chemical or toxin
+2014,October,Florida,Restaurant,"Fish, Red Grouper",Ciguatoxin
+2014,May,Florida,Private Home/Residence,"Fish, Reef Unspecified",Ciguatoxin
+2014,November,California,Restaurant,"Fish, Salmon",Norovirus unknown
+2014,February,Florida,Private Home/Residence,"Fish, Seabass",Ciguatoxin
+2014,March,New Jersey,Restaurant,"Fish, Tuna",Scombroid toxin
+2014,September,Utah,Restaurant,"Fish, Tuna",Scombroid toxin
+2014,August,Florida,,"Fish, Tuna Dishes",Scombroid toxin
+2014,October,New York,Restaurant,"Fish, Tuna, Spicy Roll",Scombroid toxin
+2014,March,Puerto Rico,Private Home/Residence,"Fish, Unspecified",Ciguatoxin
+2014,March,Virginia,Restaurant,French Fries,
+2014,December,Hawaii,,"Fried Rice, Unspecified; Stir-Fry",
+2014,April,Florida,,Frozen Yogurt,Cleaning agents
+2014,March,Connecticut,Catering Service,Fruit,Sapovirus genogroup I
+2014,June,Wisconsin,Catering Service,Fruit Platter,Norovirus genogroup II
+2014,March,New York,Banquet Facility,Fruit Salad,Norovirus genogroup II
+2014,April,Wisconsin,Banquet Facility,Fruit Salad; Cake,Norovirus genogroup I
+2014,February,Alaska,Restaurant,Goat,Salmonella enterica
+2014,August,Idaho,,"Goat Milk, Unpasteurized",Cryptosporidium parvum
+2014,August,Multistate,,"Grapes, Unspecified",Salmonella enterica
+2014,April,Missouri,Catering Service,"Gravy, Beef",Clostridium perfringens; Clostridium perfringens
+2014,July,Texas,,"Gravy, Beef",
+2014,December,Minnesota,Restaurant,Green Beans,Norovirus genogroup II
+2014,January,Multistate,Private Home/Residence,Ground Beef,"Escherichia coli, Shiga toxin-producing"
+2014,May,Multistate,Private Home/Residence,Ground Beef,"Escherichia coli, Shiga toxin-producing"
+2014,May,Multistate,Restaurant; Private Home/Residence,Ground Beef,"Escherichia coli, Shiga toxin-producing"
+2014,June,Massachusetts,Private Home/Residence,Ground Beef,"Escherichia coli, Shiga toxin-producing"
+2014,July,Multistate,Private Home/Residence,Ground Beef,Salmonella enterica
+2014,April,Multistate,Restaurant,"Ground Beef, Hamburger","Escherichia coli, Shiga toxin-producing"
+2014,August,Utah,Fair/Festival,"Ground Beef, Hamburger",Clostridium perfringens
+2014,May,Virginia,Grocery Store,"Ground Beef, Hamburger; Chips; Lemonade, Unspecified",Salmonella enterica
+2014,June,Washington,Restaurant,"Ground Beef, Unspecified",Clostridium perfringens
+2014,October,Florida,Restaurant; Private Home/Residence,"Grouper, Black",Ciguatoxin
+2014,March,Michigan,Restaurant,Guacamole; Sour Cream,Norovirus genogroup II
+2014,December,Minnesota,Restaurant,Hamburger,Norovirus
+2014,October,Minnesota,Restaurant,Hoagies,Norovirus genogroup II
+2014,March,Ohio,Fast Food Restaurant,"Hot Dog, Unspecified; Hamburger; Bun; Onions",Norovirus
+2014,December,California,Restaurant,Hummus,Bacterium
+2014,June,Minnesota,Catering Service,Ice,Norovirus genogroup II
+2014,October,Minnesota,Catering Service,"Ice, Unspecified",Norovirus
+2014,December,Florida,Catering Service,"Ice; Green Beans; Chicken, Marsala",Norovirus genogroup II
+2014,September,Wisconsin,Private Home/Residence,Kale,Cryptosporidium parvum
+2014,March,New York,Restaurant,Kare Kare,Clostridium perfringens
+2014,March,Massachusetts,Private Home/Residence; School/College/University,"Leaf Lettuce, Unspecified",Salmonella
+2014,June,California,Catering Service,Lettuce (Source Unknown),Norovirus unknown
+2014,February,California,Restaurant,Lettuce Based Salads,Norovirus unknown
+2014,May,Washington,Restaurant,"Lettuce, Unspecified",Norovirus
+2014,June,Florida,Restaurant,"Lettuce, Unspecified; Guacamole, Unspecified",Norovirus genogroup II
+2014,April,Tennessee,Restaurant,Lettuce; Tomatoes,Norovirus genogroup II
+2014,March,Wisconsin,Catering Service,"Lettuce; Tomatoes; Tortilla, Unspecified",Norovirus genogroup I
+2014,November,Minnesota,Restaurant,Macaroni And Cheese,Norovirus
+2014,November,Texas,Catering Service,Macaroni And Cheese; Mashed Potato/Gravy; Turkey,Staphylococcus aureus
+2014,April,New York,Restaurant,Macaroni Salad,Norovirus genogroup II
+2014,June,Connecticut,Restaurant,Mango Batido,Salmonella enterica
+2014,May,Multistate,Private Home/Residence,"Mango, Unspecified",Salmonella enterica
+2014,March,New Jersey,Restaurant,Mangu,Salmonella enterica
+2014,October,Colorado,Banquet Facility,Mashed Potatoes; Green Chile,Bacterium
+2014,June,Kansas,Prison/Jail,Meat Sauce,Clostridium perfringens
+2014,February,Pennsylvania,Restaurant,Meatballs; Sausage; Peppers,Bacillus cereus
+2014,November,Washington,Restaurant; Private Home/Residence,"Mexican Style Cheese, Pasteurized",Listeria monocytogenes
+2014,November,Oregon,Restaurant,Migas,
+2014,January,Maine,,"Milk, Unpasteurized",Cryptosporidium parvum
+2014,March,Utah,,"Milk, Unpasteurized",Campylobacter jejuni
+2014,June,Montana,,"Milk, Unpasteurized",Salmonella enterica
+2014,July,Ohio,Private Home/Residence,"Milk, Unpasteurized",Campylobacter unknown
+2014,September,Kentucky,Private Home/Residence,"Milk, Unpasteurized","Escherichia coli, Shiga toxin-producing"
+2014,December,Idaho,Farm/Dairy,"Milk, Unpasteurized",Cryptosporidium
+2014,May,Utah,,"Milk, Whole Milk Unpasteurized",Campylobacter jejuni
+2014,September,Wisconsin,Private Home/Residence,"Milk, Whole Milk Unpasteurized","Campylobacter jejuni; Escherichia coli, Shiga toxin-producing; Giardia"
+2014,October,Pennsylvania,,"Milk, Whole Milk Unpasteurized",Campylobacter unknown
+2014,August,Colorado,Fast Food Restaurant,Milkshake,Cleaning agents
+2014,November,Washington,Hospital,Milkshake,Listeria monocytogenes
+2014,June,Multistate,Restaurant; Unknown,Mung Bean Sprouts,Listeria monocytogenes
+2014,September,Multistate,Fast Food Restaurant; Restaurant; Restaurant; Grocery Store; Office/Indoor Workplace,Mung Bean Sprouts,Salmonella enterica
+2014,April,Georgia,Restaurant,Mushroom Swiss Burger,Clostridium perfringens
+2014,January,Multistate,Private Home/Residence,Nut Butter (Almond And Peanut),Salmonella enterica
+2014,June,California,Catering Service,Onions,Norovirus unknown
+2014,November,California,Private Home/Residence,"Other Cheese, Unpasteurized",Salmonella enterica
+2014,January,Oregon,Restaurant,Oysters,Campylobacter coli
+2014,June,Oregon,Restaurant; Fair/Festival,Oysters,Vibrio parahaemolyticus
+2014,July,Massachusetts,Fast Food Restaurant; Restaurant,Oysters,Vibrio parahaemolyticus
+2014,August,California,Restaurant,Oysters,Vibrio parahaemolyticus
+2014,September,Washington,,"Oysters, Fried",Norovirus genogroup I
+2014,January,Louisiana,Private Home/Residence,"Oysters, Raw",Norovirus genogroup II
+2014,March,Florida,Restaurant,"Oysters, Raw",
+2014,March,Washington,Restaurant,"Oysters, Raw",
+2014,June,Arizona,,"Oysters, Raw",Vibrio parahaemolyticus
+2014,June,New Jersey,Restaurant,"Oysters, Raw",Norovirus
+2014,June,New York,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2014,July,Minnesota,Fast Food Restaurant; Private Home/Residence,"Oysters, Raw",Vibrio parahaemolyticus
+2014,July,Minnesota,Grocery Store,"Oysters, Raw",Vibrio parahaemolyticus; Vibrio other
+2014,August,Washington,Restaurant,"Oysters, Raw",Norovirus genogroup II
+2014,August,Washington,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2014,August,Wyoming,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2014,November,Multistate,Restaurant; Catering Service,"Oysters, Raw",Norovirus genogroup I
+2014,July,Maryland,Restaurant,"Pancakes, Unspecified",
+2014,July,Wisconsin,Camp,Pasta Salad,Streptococcus group A
+2014,October,Wisconsin,Grocery Store,Pasta Salad,Norovirus genogroup II
+2014,May,Maryland,Restaurant,"Pate, Chicken Liver",Campylobacter jejuni; Campylobacter coli
+2014,December,Pennsylvania,Private Home/Residence,"Pate, Chicken Liver",Campylobacter jejuni
+2014,June,Multistate,Private Home/Residence,"Peaches, Unspecified; Nectarine",Listeria monocytogenes
+2014,June,Multistate,,"Peppers, Mini",Salmonella enterica
+2014,July,Ohio,Private Home/Residence,Pesto,Clostridium botulinum
+2014,December,Oregon,Restaurant,Pico De Gallo,Norovirus genogroup I
+2014,May,Indiana,Private Home/Residence,"Pie, Coconut Cream",Salmonella enterica
+2014,January,Connecticut,Grocery Store,Pizza,Norovirus genogroup I
+2014,September,Montana,Restaurant,Pizza,Salmonella enterica
+2014,May,Texas,Fast Food Restaurant,"Pizza, Cheese",
+2014,May,Ohio,Fast Food Restaurant,"Pizza, Meat And Vegetable",
+2014,June,California,Restaurant,"Pizza, Pepperoni (Source Unknown)",Norovirus unknown
+2014,August,Minnesota,Private Home/Residence,Popcorn; Fruit Salad,Norovirus genogroup II
+2014,February,Connecticut,Fast Food Restaurant,Pork,Salmonella enterica
+2014,December,Puerto Rico,Private Home/Residence; Catering Service,Pork,Staphylococcus aureus
+2014,November,Washington,Restaurant,Pork Fried Rice,Bacillus cereus
+2014,December,Minnesota,Restaurant,"Pork, Bacon",Norovirus genogroup II
+2014,June,Maryland,Restaurant,"Pork, Bbq",Clostridium perfringens
+2014,September,Tennessee,Unknown,"Pork, Bbq",Staphylococcus aureus
+2014,May,California,Unknown,"Pork, Carnitas",Salmonella enterica
+2014,July,Illinois,,"Pork, Carnitas",Salmonella enterica
+2014,September,New Hampshire,Restaurant,"Pork, Carnitas",Salmonella enterica
+2014,December,Wisconsin,Restaurant,"Pork, Carnitas; Barbacoa",Clostridium perfringens; Bacillus cereus
+2014,June,North Dakota,Private Home/Residence,"Pork, Roasted",Salmonella enterica
+2014,June,Ohio,Private Home/Residence,"Pork, Roasted",Salmonella enterica; Salmonella enterica
+2014,May,California,Private Home/Residence,"Pork; Macaroni Salad; Sandwich, Chicken",Norovirus unknown
+2014,April,California,Private Home/Residence; Grocery Store,Pork; Pork,Salmonella enterica
+2014,May,Minnesota,Banquet Facility,Potato Salad,Norovirus genogroup II
+2014,June,California,Private Home/Residence,Potato Salad,Bacterium
+2014,October,Connecticut,Catering Service,Potato Salad,Campylobacter jejuni
+2014,July,Minnesota,Catering Service,"Potato Salad; Celery, Unspecified","Escherichia coli, Shiga toxin-producing"
+2014,June,Multistate,,Pre-Packaged Salad,"Escherichia coli, Shiga toxin-producing"
+2014,March,Minnesota,Banquet Facility,Pulled Pork,Clostridium perfringens
+2014,July,New York,Restaurant,Punch,
+2014,July,Ohio,Private Home/Residence,Raw Ground Beef,Campylobacter
+2014,January,Pennsylvania,,Raw Milk,Campylobacter unknown
+2014,March,Michigan,Private Home/Residence,Raw Milk,"Escherichia coli, Shiga toxin-producing"
+2014,May,Minnesota,Private Home/Residence,Raw Milk,Campylobacter jejuni
+2014,June,Multistate,Farm/Dairy,Raw Milk,Listeria monocytogenes
+2014,July,New York,,Raw Milk,Campylobacter jejuni
+2014,June,Arkansas,Restaurant,"Refried Beans, Unspecified",Clostridium perfringens
+2014,November,Florida,Restaurant,"Refried Beans, Unspecified",Norovirus unknown
+2014,May,North Carolina,Restaurant,Remoulade,Salmonella enterica
+2014,April,New Hampshire,Restaurant,Rice,
+2014,December,Alabama,Restaurant,Rice,Norovirus genogroup II
+2014,December,Oregon,Restaurant,Rice,
+2014,May,Maryland,Restaurant,"Rice, Fried Rice",
+2014,February,California,School/College/University,"Rice, Unspecified (Source Unknown)",
+2014,May,Ohio,Restaurant,"Rice, White",
+2014,January,Minnesota,Restaurant,Rolls,Salmonella enterica
+2014,April,Minnesota,School/College/University,"Romaine Lettuce, Unspecified","Escherichia coli, Enteroaggregative"
+2014,July,Minnesota,Fast Food Restaurant,"Romaine Lettuce, Unspecified",Salmonella enterica
+2014,May,Ohio,Fast Food Restaurant,Salad,Norovirus genogroup II
+2014,September,Minnesota,Restaurant,Salad,Norovirus genogroup I
+2014,November,Connecticut,Restaurant,Salad,Norovirus genogroup II
+2014,November,Multistate,Fast Food Restaurant,Salad,"Escherichia coli, Shiga toxin-producing"
+2014,May,Florida,Restaurant,Salad Bar Items,Norovirus unknown
+2014,March,Wisconsin,,Salad Dressing,Norovirus genogroup II
+2014,February,Virginia,Restaurant,"Salad, Unspecified",Norovirus genogroup II
+2014,April,Ohio,Restaurant,"Salad, Unspecified",Norovirus genogroup II
+2014,March,Minnesota,Restaurant,Salad; Bread Sticks,Norovirus genogroup II
+2014,August,Michigan,Restaurant,Salad; Hummus,Norovirus genogroup II
+2014,January,Florida,Restaurant,Salads,Norovirus unknown
+2014,June,Massachusetts,Fast Food Restaurant,Salads,Norovirus genogroup I
+2014,September,Michigan,Private Home/Residence,"Salmon, Smoked",Salmonella enterica
+2014,June,California,Banquet Facility,"Salmon, Unspecified; Spices",Norovirus unknown
+2014,June,Arkansas,Office/Indoor Workplace,Salsa,Shigella sonnei
+2014,November,Minnesota,Fast Food Restaurant,Salsa,"Escherichia coli, Shiga toxin-producing"
+2014,August,Virginia,Private Home/Residence; Catering Service,"Sandwich, Chicken",Salmonella enterica
+2014,October,Texas,,"Sandwich, Chicken",
+2014,January,Minnesota,Restaurant,"Sandwich, Ham",Norovirus genogroup II
+2014,July,Pennsylvania,Catering Service,"Sandwich, Hoagie",Norovirus unknown
+2014,January,Florida,Private Home/Residence,"Sandwich, Speciality",Norovirus genogroup II
+2014,June,Michigan,Fast Food Restaurant; Catering Service,"Sandwich, Submarine",Sapovirus
+2014,March,California,Fast Food Restaurant,"Sandwich, Unspecified",Norovirus unknown
+2014,August,New Hampshire,Catering Service,"Sandwich, Wrap",Norovirus genogroup II
+2014,March,Michigan,Restaurant,"Sauces, Unspecified",Norovirus genogroup I
+2014,July,Connecticut,Restaurant,"Scallops, Fried; Shrimp, Fried",Unknown
+2014,August,Florida,Restaurant,Seafood,Staphylococcus aureus
+2014,August,Florida,Restaurant,"Seafood Dish, Unspecified",
+2014,December,Alaska,Private Home/Residence,"Seal, Oil",Clostridium botulinum
+2014,June,Ohio,Banquet Facility,Shredded Chicken,Clostridium perfringens
+2014,December,Ohio,,Shrimp Cocktail,Norovirus genogroup II
+2014,May,Texas,,Shrimp Dishes,
+2014,June,Texas,Restaurant,"Shrimp, Raw; Pork; Eggs, Other",
+2014,August,Texas,,"Shrimp, Unspecified; Chicken, Unspecified",
+2014,May,Florida,Fast Food Restaurant,"Soup, Clam Chowder; Garden Salad",
+2014,December,Rhode Island,Restaurant,"Soup, Vietnamese Pho",
+2014,October,Minnesota,Restaurant,"Sour Cream; Salsa, Unspecified",Clostridium perfringens
+2014,June,New York,Private Home/Residence,Spaghetti Sauce W/ Peas And Meat,Clostridium botulinum
+2014,May,California,Restaurant,Specialty/Ethnic Dishes,Norovirus unknown
+2014,May,California,Restaurant,Specialty/Ethnic Dishes; Noodles,Norovirus unknown
+2014,April,Multistate,Fast Food Restaurant,Spinach,"Escherichia coli, Shiga toxin-producing"
+2014,April,Texas,Restaurant,Spinach Salad,
+2014,June,California,Prison/Jail,"Spread/Filling, Other",Norovirus unknown
+2014,June,Virginia,Restaurant; Private Home/Residence,Sprouts,Listeria monocytogenes
+2014,July,Florida,Restaurant,"Steak (Beef Taco), Cilantro,Onions",Salmonella enterica
+2014,March,Florida,Restaurant,"Steak, Prime Rib",
+2014,June,Ohio,Private Home/Residence,Strawberries,Cryptosporidium unknown
+2014,January,Virginia,Grocery Store,Submarine Sandwich,Norovirus genogroup I
+2014,April,Pennsylvania,Catering Service,Sushi,Norovirus
+2014,March,Michigan,Restaurant,"Sushi, Unspecified",
+2014,June,California,Restaurant,"Sushi, Unspecified",Scombroid toxin
+2014,January,Minnesota,Restaurant,"Sushi, Various Types",Norovirus genogroup I
+2014,July,Rhode Island,Restaurant,"Sushi, Various Types",Norovirus unknown
+2014,June,New York,Private Home/Residence,Swai Fish Stew,
+2014,August,Oregon,Fast Food Restaurant,Taco,Campylobacter jejuni
+2014,November,Florida,Grocery Store,"Taco, Beef","Escherichia coli, Shiga toxin-producing"
+2014,November,Utah,Restaurant,"Taco, Beef",Clostridium perfringens
+2014,February,California,Fast Food Restaurant,Tacos,
+2014,March,California,Restaurant,Tacos,Norovirus unknown
+2014,September,Florida,Restaurant,Tajine Dishes,Campylobacter jejuni
+2014,September,Illinois,Restaurant,"Tamale, Unspecified",Salmonella enterica
+2014,October,Arkansas,Private Home/Residence,"Tamale, Unspecified",Salmonella enterica
+2014,February,Michigan,,"Tortilla, Unspecified",
+2014,August,Kansas,Religious Facility,"Tostada, Unspecified",Salmonella enterica
+2014,May,Minnesota,Restaurant,Tuna Burger,Scombroid toxin
+2014,November,New York,Restaurant,Tuna Burger,Scombroid toxin
+2014,February,California,Restaurant; Private Home/Residence,Tuna Filets (Albacore And Ahi Tuna),Scombroid toxin
+2014,September,Hawaii,,Tuna Steak,
+2014,November,Washington,Grocery Store,Tuna Steak,Scombroid toxin
+2014,July,New York,Restaurant,Tuna Sushi,Scombroid toxin
+2014,July,Rhode Island,Restaurant,Tuna Sushi,Scombroid toxin
+2014,June,New York,Restaurant,"Tuna, Raw",Scombroid toxin
+2014,September,South Carolina,Private Home/Residence,Turkey,Salmonella enterica
+2014,November,Washington,Nursing Home/Assisted Living Facility,Turkey,Campylobacter
+2014,December,Florida,Catering Service,Turkey,Staphylococcus aureus
+2014,December,Missouri,,Turkey,Staphylococcus aureus
+2014,December,South Carolina,Catering Service,Turkey And Gravy,Clostridium perfringens
+2014,September,Connecticut,Catering Service,Turkey Wrap,Norovirus genogroup I
+2014,November,Ohio,Private Home/Residence,"Turkey, Baked",Campylobacter jejuni
+2014,July,Minnesota,,"Turkey, Roasted",Salmonella enterica
+2014,September,Hawaii,Restaurant,Vegetables,Salmonella enterica
+2014,December,Oregon,Private Home/Residence,Venison,"Escherichia coli, Shiga toxin-producing"
+2014,October,Washington,,Vietnamese Sandwich (Chicken And Bbq Pork),Campylobacter jejuni
+2014,August,Idaho,Restaurant,Whipped Cream; Whipped Cream,Salmonella enterica
+2014,July,New Jersey,Private Home/Residence,Wild Mushrooms,Mycotoxins
+2014,September,New Jersey,Private Home/Residence,Wild Mushrooms,Mycotoxins
+2014,October,New Jersey,,Wild Mushrooms,Mycotoxins
+2014,October,New Jersey,,Wild Mushrooms,Mycotoxins
+2014,April,New York,Private Home/Residence,Yellow Fin Tuna,Scombroid toxin
+2013,December,Utah,Fast Food Restaurant,Alfalfa Sprouts,Salmonella enterica
+2013,June,California,Restaurant,Antipasta Salad,Norovirus unknown
+2013,May,Massachusetts,Restaurant,Antipasto,Norovirus genogroup II
+2013,September,Ohio,,"Apple Cider, Unpasteurized",Cryptosporidium unknown
+2013,October,Iowa,Private Home/Residence,"Apple Cider, Unpasteurized",Cryptosporidium hominis; Cryptosporidium parvum; Cryptosporidium
+2013,October,Pennsylvania,,"Apple Cider, Unpasteurized",Salmonella enterica
+2013,April,Texas,Camp,"Batch Egg, Other; Cheese; Chicken, Other; Sandwich, Chicken; Spaghetti, Unspecified",
+2013,October,Alaska,Restaurant,Beans And Rice,Clostridium perfringens
+2013,June,California,Private Home/Residence; Catering Service,"Beans, Unspecified",Bacillus cereus; Clostridium perfringens
+2013,July,Georgia,Restaurant,"Beans, Unspecified",Clostridium perfringens
+2013,October,Maryland,Private Home/Residence,"Bear, Unspecified",Trichinella spiralis
+2013,May,Wisconsin,Religious Facility,"Beef, Laab Raw; Boiled Beef",Salmonella enterica
+2013,May,Michigan,Restaurant,"Beef, Other; Potato, Au Gratin",
+2013,October,Oregon,Camp,"Beef, Stroganoff",Clostridium perfringens
+2013,February,Georgia,Catering Service,"Beef; Gravy, Beef",Clostridium perfringens
+2013,May,California,Private Home/Residence,"Beef(Fresly Killed Cow), Raw And/Or Undercooked; Beef(Fresly Killed Cow), Raw And/Or Undercooked; Beef(Fresly Killed Cow), Raw And/Or Undercooked",Salmonella enterica
+2013,November,New York,School/College/University,Black Bean Casserole; Rice,Clostridium perfringens
+2013,July,Wisconsin,Private Home/Residence,Blackberries,Cyclospora cayatenensis
+2013,February,Illinois,Private Home/Residence,Boar Meat,Trichinella spiralis
+2013,May,Minnesota,Banquet Facility,"Bread, Wheat; Swiss Cheese, Pasteurized",Norovirus genogroup II
+2013,March,Ohio,Fast Food Restaurant,Breakfast Sandwich,Norovirus genogroup II
+2013,February,California,Catering Service,Burritos,Staphylococcus aureus
+2013,March,Maryland,Banquet Facility,Caesar Salad,Norovirus genogroup II
+2013,June,Georgia,Banquet Facility,Caesar Salad,Norovirus genogroup I
+2013,May,Louisiana,Catering Service,Cake,Norovirus genogroup II
+2013,May,Louisiana,Catering Service,Cake,Norovirus genogroup II
+2013,August,California,Restaurant,Cake,Norovirus unknown
+2013,November,North Carolina,Grocery Store,Cake,
+2013,June,California,Catering Service,"Cake, Black Forest",Norovirus unknown
+2013,February,Minnesota,Banquet Facility; Religious Facility,"Cake, Cheese; Potato, Baked",Norovirus genogroup II
+2013,June,California,Catering Service,"Cake, Unspecified",Norovirus unknown
+2013,April,Indiana,Unknown,Cantaloupe,Salmonella enterica; Salmonella enterica
+2013,May,Minnesota,Restaurant,Cantaloupe,Norovirus
+2013,August,Oregon,Private Home/Residence,Carne Asada Steak,Salmonella enterica
+2013,November,Multistate,,"Cashew Cheese, Raw",Salmonella enterica
+2013,March,Oregon,Restaurant,Ceviche,Norovirus genogroup II
+2013,June,Illinois,Catering Service; Grocery Store,Cheese Platter,
+2013,March,New York,Restaurant,Cheese Toast,Norovirus genogroup II
+2013,May,Multistate,Restaurant; Private Home/Residence,Cheese-Le Frere,Listeria monocytogenes
+2013,April,Michigan,Catering Service,Cheese; Fruit; Crackers,Norovirus genogroup II
+2013,March,Multistate,,Cherry Tomato; Grape Tomato,Salmonella enterica
+2013,March,Multistate,,Chicken,Salmonella enterica
+2013,March,Oregon,Private Home/Residence,Chicken,Salmonella enterica
+2013,April,Colorado,Catering Service,Chicken,Clostridium perfringens
+2013,August,South Carolina,Restaurant,Chicken,Salmonella enterica
+2013,October,Tennessee,Restaurant,Chicken,Salmonella enterica
+2013,November,Alaska,,Chicken,Salmonella enterica
+2013,November,Tennessee,Prison/Jail,Chicken,Salmonella enterica
+2013,November,Washington,Restaurant,Chicken,Staphylococcus aureus
+2013,November,Wisconsin,Restaurant,Chicken,Clostridium perfringens
+2013,January,Ohio,Private Home/Residence,Chicken And Barley,Staphylococcus unknown
+2013,May,Ohio,,Chicken And Noodles,Salmonella enterica
+2013,May,Pennsylvania,Fast Food Restaurant,"Chicken And Noodles; Rice; Rice, Fried Rice",Bacillus cereus; Staphylococcus aureus
+2013,August,New York,Catering Service,Chicken And Spinach Dish,
+2013,September,Tennessee,Restaurant,Chicken Based Food; Salsa; Cheese,
+2013,March,Minnesota,Private Home/Residence,Chicken Chili,Clostridium perfringens
+2013,May,Maryland,Grocery Store,Chicken Kabob Sandwich,Salmonella enterica
+2013,November,Missouri,Private Home/Residence,Chicken Mole,Salmonella enterica
+2013,January,Colorado,Restaurant,Chicken Pot Pie,
+2013,March,New York,Restaurant,Chicken Taco Salad,Clostridium perfringens
+2013,February,Oregon,Private Home/Residence,Chicken Tostadas,Norovirus genogroup II
+2013,August,Pennsylvania,Fast Food Restaurant; Restaurant; Private Home/Residence,"Chicken Wrap; Prepackaged Leafy Greens; Lettuce, Unspecified","Escherichia coli, Shiga toxin-producing"
+2013,April,Colorado,Grocery Store,"Chicken, Baked",
+2013,March,California,Private Home/Residence,"Chicken, Bbq",Salmonella unknown
+2013,March,Georgia,School/College/University,"Chicken, Bbq",Salmonella enterica
+2013,February,Ohio,Restaurant,"Chicken, Buffalo Wings",Clostridium perfringens; Norovirus unknown
+2013,March,Georgia,Restaurant,"Chicken, Buffalo Wings; Fried Rice, Unspecified",
+2013,August,Washington,Camp,"Chicken, Cordon Bleu",Salmonella enterica
+2013,December,Maryland,Restaurant,"Chicken, Curry; Chicken, Other",
+2013,September,Virginia,Fast Food Restaurant; Hospital,"Chicken, Curry; Spinach, Unspecified; White Rice",
+2013,February,Ohio,Fast Food Restaurant,"Chicken, Fried",Norovirus genogroup II
+2013,August,Florida,Fast Food Restaurant,"Chicken, Fried",Salmonella enterica
+2013,December,Tennessee,,"Chicken, Fried; Broccoli, Unspecified",
+2013,April,New York,Restaurant,"Chicken, Liver",Campylobacter jejuni
+2013,May,Rhode Island,Restaurant,"Chicken, Liver Mousse",Campylobacter coli
+2013,May,New York,Restaurant,"Chicken, Other",
+2013,July,Puerto Rico,Fair/Festival,"Chicken, Roasted",Salmonella
+2013,March,Virginia,Restaurant,"Chicken, Roasted; Rice, Fried Rice",Campylobacter jejuni
+2013,July,Florida,Fast Food Restaurant,"Chicken, Sweet And Sour",Staphylococcus unknown
+2013,March,South Carolina,,"Chicken, Teriyaki",
+2013,July,Texas,,"Chicken, Teriyaki; Shrimp; Rice",
+2013,January,Iowa,Restaurant,"Chicken, Tetrazini",Staphylococcus aureus
+2013,May,Michigan,Restaurant; Catering Service,"Chicken, Unspecified; Beef, Unspecified; Rice",Bacillus cereus
+2013,May,Texas,Restaurant,"Chicken; Beef, Brisket; Sausage; Beans And Rice",
+2013,September,Kentucky,Restaurant,"Chicken; Fajita, Beef",Salmonella enterica
+2013,August,Puerto Rico,Catering Service,Chicken; Macaroni Salad,Salmonella enterica
+2013,August,California,Catering Service,Chips And Salsa,
+2013,June,California,Restaurant,"Chips, Tortilla; Salsa",Norovirus unknown
+2013,June,Texas,,"Cilantro, Unspecified",Cyclospora cayatenensis
+2013,October,Alaska,,"Clams, Butter",Paralytic shellfish poison
+2013,March,Connecticut,Private Home/Residence,Cookies,Norovirus genogroup II
+2013,May,Minnesota,Banquet Facility,"Cookies, Unspecified",Norovirus genogroup I
+2013,May,Maryland,Restaurant,"Crab, Steamed",
+2013,August,Virginia,Restaurant,"Crab; Soup, Gazpacho",Salmonella enterica
+2013,June,Florida,Fast Food Restaurant,Cream Sauces,
+2013,January,Multistate,Private Home/Residence,Cucumber,Salmonella enterica
+2013,February,Michigan,School/College/University,Cucumber,Salmonella enterica
+2013,April,Connecticut,,Dessert Unspecified,Norovirus genogroup II
+2013,November,New York,Restaurant,Duck,Campylobacter
+2013,October,Florida,Restaurant,"Eclair, Unspecified",Bacillus cereus
+2013,July,Massachusetts,Restaurant,Eggs,Salmonella enterica
+2013,July,Wisconsin,Private Home/Residence,"Eggs, Unspecified",Salmonella enterica
+2013,September,Pennsylvania,Restaurant,Escolar Fish,Scombroid toxin
+2013,August,Tennessee,Restaurant,"Fajita, Beef",Salmonella enterica
+2013,June,Massachusetts,Fast Food Restaurant; Restaurant; Fair/Festival,Falafel,Salmonella enterica
+2013,December,New York,Restaurant,Fish Hot Pot; Beef Lung In Chili Sauce; Pork Kidney And Chicken Dish,Salmonella enterica
+2013,June,Florida,Restaurant; Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2013,August,Florida,Private Home/Residence,"Fish, Amberjack",Ciguatoxin
+2013,March,Puerto Rico,,"Fish, Amberjack; Fish, Amberjack",Ciguatoxin
+2013,January,New York,Private Home/Residence,"Fish, Baracuda",Ciguatoxin
+2013,March,Oregon,Private Home/Residence,"Fish, Bass",Ciguatoxin
+2013,July,Mississippi,Private Home/Residence,"Fish, Buffalo",Plant or herbal toxins
+2013,October,California,,"Fish, Codfish",Campylobacter jejuni
+2013,January,Montana,Restaurant,"Fish, Escolar",Histamine
+2013,August,Hawaii,Private Home/Residence,"Fish, Grouper",Ciguatoxin
+2013,December,Florida,Private Home/Residence,"Fish, Grouper",Ciguatoxin
+2013,February,Puerto Rico,Restaurant,"Fish, Hogfish",Ciguatoxin
+2013,March,Puerto Rico,Private Home/Residence,"Fish, Hogfish",Ciguatoxin
+2013,March,Puerto Rico,Private Home/Residence,"Fish, Jack",Ciguatoxin
+2013,September,Puerto Rico,Private Home/Residence,"Fish, Kingfish",Ciguatoxin
+2013,November,South Carolina,,"Fish, Lionfish",Ciguatoxin
+2013,May,New York,Restaurant,"Fish, Mahi Mahi",Scombroid toxin
+2013,May,Hawaii,,"Fish, Monchong",Scombroid toxin
+2013,November,Rhode Island,Private Home/Residence,"Fish, Puffer Unspecified",Chemical or toxin
+2013,November,Florida,Private Home/Residence,"Fish, Snapper",Ciguatoxin
+2013,August,Puerto Rico,Restaurant,"Fish, Swordfish",Ciguatoxin
+2013,November,Multistate,,"Fish, Tilapia",Salmonella enterica
+2013,January,Hawaii,,"Fish, Tuna",Scombroid toxin
+2013,February,Indiana,Private Home/Residence,"Fish, Tuna",Scombroid toxin
+2013,April,California,Restaurant,"Fish, Tuna",Scombroid toxin
+2013,September,Florida,Restaurant,"Fish, Tuna",Scombroid toxin
+2013,March,Minnesota,Restaurant,"Fish, Unspecified",
+2013,March,Puerto Rico,Private Home/Residence,"Fish, Unspecified",
+2013,October,Puerto Rico,Private Home/Residence,"Fish, Unspecified",Ciguatoxin
+2013,June,New York,Restaurant,Foie Gras Hamburger,Campylobacter jejuni
+2013,April,Illinois,Banquet Facility,French Dressing; Butter; Iced Tea,Norovirus genogroup II; Norovirus genogroup II
+2013,May,Montana,Private Home/Residence,Fruit,Norovirus genogroup II
+2013,September,New York,Restaurant,Fruit,Norovirus genogroup I
+2013,October,Minnesota,Private Home/Residence,Fruit,Norovirus genogroup II
+2013,December,Minnesota,Restaurant; Banquet Facility,Fruit,Norovirus genogroup II
+2013,May,Tennessee,Catering Service,Fruit Cocktail,Salmonella enterica
+2013,January,Oregon,Banquet Facility,Fruit Salad,Norovirus genogroup II
+2013,March,Georgia,Grocery Store,Fruit Salad,Norovirus genogroup II
+2013,June,Maryland,Restaurant,Goat,Salmonella enterica
+2013,July,Minnesota,Private Home/Residence,"Goat, Unspecified",Salmonella enterica
+2013,October,California,Child Daycare,Green Beans,"Escherichia coli, Shiga toxin-producing"
+2013,July,Alabama,Religious Facility,"Green Beans, Unspecified; Macaroni And Cheese",Salmonella enterica
+2013,July,California,Private Home/Residence; Unknown,Green Leaf Lettuce,"Escherichia coli, Shiga toxin-producing"
+2013,February,New York,Office/Indoor Workplace,Grilled Chicken Club,Norovirus genogroup II
+2013,April,Multistate,Private Home/Residence,Ground Beef,Salmonella enterica
+2013,March,Montana,Private Home/Residence,"Ground Beef, Hamburger","Escherichia coli, Shiga toxin-producing"
+2013,October,Pennsylvania,Restaurant,"Ground Beef, Hamburger","Escherichia coli, Shiga toxin-producing"
+2013,October,Ohio,Restaurant,"Ground Beef, Hamburger; Caesar Dressing",Salmonella enterica
+2013,August,Tennessee,School/College/University,Ground Chicken,Salmonella enterica; Campylobacter jejuni
+2013,December,California,Restaurant,"Guacamole, Unspecified; Guacamole, Unspecified",Norovirus unknown
+2013,April,Pennsylvania,Catering Service,Ham,Salmonella enterica
+2013,September,Pennsylvania,Religious Facility,"Ham; Beef, Stroganoff",Bacillus cereus; Staphylococcus aureus
+2013,May,Pennsylvania,,"Ham; Ice Cream, Homemade; Ice Cream, Homemade; Ice Cream, Homemade; Stuffing/Dressing; Pie, Peach; Pie, Coconut Cream",Staphylococcus aureus; Bacillus cereus
+2013,June,Illinois,Catering Service,Hamburger; Fruit Salad,Norovirus genogroup I
+2013,October,Connecticut,Banquet Facility,"Hors D'Oeuvres; Water; Ice, Unspecified",Norovirus genogroup I
+2013,September,Idaho,Grocery Store,"Ice Cream, Commercial","Escherichia coli, Shiga toxin-producing"
+2013,November,California,Restaurant,"Ice Cream, With Fresh Berries",Norovirus unknown
+2013,November,Florida,Restaurant,Italian Submarine Sandwich,Norovirus unknown
+2013,September,Florida,Grocery Store,Kale,"Escherichia coli, Shiga toxin-producing"
+2013,July,Ohio,Restaurant,Kitfo,Campylobacter unknown
+2013,July,Michigan,Catering Service,Lamb,Salmonella enterica
+2013,June,Tennessee,Restaurant,Lamb Curry,"Escherichia coli, Shiga toxin-producing"
+2013,December,Ohio,,Landjaeger,Bacillus cereus
+2013,June,Kansas,Restaurant,"Lasagna, Beef",Clostridium perfringens
+2013,August,Multistate,Private Home/Residence,Latin Style Soft Cheese,Listeria monocytogenes
+2013,March,Montana,Restaurant,Lettuce,
+2013,April,Multistate,Fast Food Restaurant,Lettuce,"Escherichia coli, Shiga toxin-producing"
+2013,June,South Carolina,,Lettuce,Norovirus genogroup I
+2013,July,Arizona,Fast Food Restaurant,Lettuce,"Escherichia coli, Shiga toxin-producing"
+2013,December,Connecticut,Restaurant,Lettuce,"Escherichia coli, Shiga toxin-producing"
+2013,January,Florida,,Lettuce Based Salads,Norovirus unknown
+2013,April,Ohio,Restaurant,Lettuce Based Salads,Norovirus
+2013,November,Illinois,Restaurant,Lettuce Based Salads,
+2013,June,Missouri,Private Home/Residence; Camp,Lettuce-Based Salads Unspecified,"Escherichia coli, Shiga toxin-producing"
+2013,November,Missouri,Restaurant,Lettuce-Based Salads Unspecified,Norovirus genogroup II
+2013,June,Michigan,Restaurant,"Lettuce, Unspecified; Tomato, Unspecified",
+2013,January,New York,Restaurant,Lobster Cannelloni With Shrimp,
+2013,June,New York,Catering Service,Macaroni Salad,Norovirus genogroup II
+2013,October,Hawaii,Catering Service,Macaroni Salad; Chicken And Rice,
+2013,February,New York,Private Home/Residence,Mahi - Mahi Burger,Scombroid toxin
+2013,April,Minnesota,Restaurant,Mashed Potato/Gravy,Norovirus genogroup I
+2013,December,South Dakota,Banquet Facility,Mashed Potato/Gravy,Clostridium perfringens
+2013,August,New York,Restaurant,Meat Hot Sauce,Clostridium perfringens
+2013,September,Multistate,Private Home/Residence,"Mexican Style Cheese, Pasteurized",Listeria monocytogenes
+2013,May,Alaska,,Milk,Campylobacter jejuni
+2013,March,Wisconsin,,"Milk, Unpasteurized","Escherichia coli, Shiga toxin-producing"
+2013,April,Colorado,,"Milk, Unpasteurized",Campylobacter jejuni
+2013,June,Minnesota,,"Milk, Unpasteurized",Campylobacter jejuni
+2013,August,Utah,,"Milk, Unpasteurized",Campylobacter jejuni
+2013,October,Tennessee,,"Milk, Unpasteurized","Escherichia coli, Shiga toxin-producing"
+2013,January,Alaska,,"Milk, Whole Milk Unpasteurized",Campylobacter coli
+2013,January,Connecticut,,"Milk, Whole Milk Unpasteurized",Campylobacter jejuni; Salmonella enterica
+2013,January,Pennsylvania,Private Home/Residence,"Milk, Whole Milk Unpasteurized",Campylobacter jejuni
+2013,February,Ohio,Private Home/Residence,"Milk, Whole Milk Unpasteurized",Campylobacter jejuni
+2013,April,Pennsylvania,,"Milk, Whole Milk Unpasteurized",Campylobacter jejuni
+2013,June,Pennsylvania,,"Milk, Whole Milk Unpasteurized",Salmonella enterica
+2013,August,Pennsylvania,,"Milk, Whole Milk Unpasteurized",Salmonella enterica
+2013,October,Ohio,,"Milk, Whole Milk Unpasteurized",Campylobacter; Cryptosporidium
+2013,October,Utah,,"Milk, Whole Milk Unpasteurized",Salmonella enterica
+2013,July,Colorado,Prison/Jail,Milk/Cream,Campylobacter
+2013,March,Oregon,Catering Service,Mixed Cut Fruit,Norovirus genogroup II
+2013,July,California,Catering Service,"Mixed Vegetables, Grilled; Water Served From The Sink",Norovirus unknown
+2013,April,California,Banquet Facility,Multiple Foods,Norovirus genogroup I
+2013,December,California,Restaurant,Multiple Foods,
+2013,July,New Jersey,Restaurant,Mussels,Amnesic shellfish poison
+2013,August,California,Restaurant,Noodles,"Escherichia coli, Shiga toxin-producing"
+2013,July,Illinois,Restaurant,Oysters,Vibrio parahaemolyticus
+2013,July,New Jersey,Restaurant,Oysters,Vibrio parahaemolyticus
+2013,January,Florida,Private Home/Residence,"Oysters, Raw",
+2013,January,Florida,Restaurant,"Oysters, Raw",
+2013,January,Washington,Restaurant,"Oysters, Raw",
+2013,March,Oregon,Restaurant,"Oysters, Raw",Salmonella enterica
+2013,May,Multistate,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2013,June,Florida,Restaurant,"Oysters, Raw",Vibrio cholerae
+2013,June,Massachusetts,Restaurant,"Oysters, Raw",Norovirus genogroup I
+2013,July,California,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2013,July,Colorado,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2013,July,Washington,Restaurant,"Oysters, Raw",Vibrio parahaemolyticus
+2013,July,Washington,Restaurant; Grocery Store,"Oysters, Raw",Vibrio parahaemolyticus
+2013,September,Oregon,Private Home/Residence,"Oysters, Raw",Vibrio parahaemolyticus
+2013,September,South Carolina,,"Oysters, Raw",Vibrio cholerae
+2013,June,Multistate,Restaurant; Grocery Store,"Oysters, Raw; Clams, Raw",Vibrio parahaemolyticus
+2013,July,Multistate,Restaurant; Private Home/Residence; Fair/Festival,"Oysters, Raw; Clams, Raw",Vibrio parahaemolyticus
+2013,June,Multistate,Restaurant; Private Home/Residence; Fair/Festival,"Oysters, Raw; Clams, Raw; Clams, Steamed",Vibrio parahaemolyticus
+2013,June,Multistate,Private Home/Residence,Papaya,Salmonella enterica
+2013,May,Massachusetts,Religious Facility,Pasta Salad,Salmonella enterica
+2013,December,Oregon,Restaurant,"Pate, Chicken Liver",Campylobacter jejuni
+2013,July,New Jersey,Private Home/Residence,Penne Vodka,Staphylococcus aureus
+2013,January,Multistate,,Pistachio,Salmonella enterica
+2013,October,Georgia,Fast Food Restaurant,Pizza,Norovirus unknown
+2013,June,Georgia,Restaurant,"Pizza, Meat",
+2013,February,New York,Restaurant,"Pizza, Sausage And Pepperoni",
+2013,August,California,Restaurant,"Pizza, Sausage And Pepperoni",Bacillus cereus
+2013,February,Ohio,Restaurant,"Pizza, Unspecified",Norovirus
+2013,November,Illinois,Restaurant,"Pizza, Vegetable; Lettuce Based Salads",
+2013,March,Multistate,Private Home/Residence,Pomegranate Seeds,Hepatitis A
+2013,August,Florida,,Popsicles,Unknown
+2013,August,Multistate,Unknown,Pork,Salmonella enterica
+2013,January,New York,Restaurant,Pork Belly,Norovirus genogroup II
+2013,September,Louisiana,Restaurant,Pork Fried Rice,Clostridium perfringens
+2013,May,Virginia,Grocery Store,"Pork, Bbq",Staphylococcus aureus
+2013,September,South Carolina,Restaurant,"Pork, Bbq",Salmonella enterica
+2013,August,Arkansas,Catering Service,"Pork, Bbq; Potato Salad",Salmonella enterica
+2013,July,Rhode Island,Fair/Festival,"Pork, Other",Salmonella enterica
+2013,December,New York,Restaurant,"Pork, Other; Shrimp, Fried",
+2013,August,Puerto Rico,Catering Service,"Pork, Roasted",Salmonella enterica
+2013,June,Florida,Restaurant,"Pork, Smoked",Salmonella enterica
+2013,August,Minnesota,Fair/Festival,"Pork; Tripe; Potato, Unspecified; Rice, Unspecified; Corn; Guinea Pig",Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica; Salmonella enterica
+2013,July,Idaho,Private Home/Residence,Posole,Clostridium perfringens
+2013,July,Puerto Rico,Catering Service,"Potato Salad; Rice, Yellow",Salmonella enterica
+2013,April,Multistate,Private Home/Residence,Prepackaged Leafy Greens,"Escherichia coli, Shiga toxin-producing"
+2013,September,Ohio,Restaurant,Prime Rib And Aus Jus,Salmonella enterica
+2013,March,Nebraska,Restaurant,"Quesadillas; Chicken; Cheese; Tortilla, Unspecified; Cilantro, Unspecified",Salmonella enterica
+2013,March,Minnesota,Private Home/Residence,"Queso Fresco, Unpasteurized",Salmonella enterica
+2013,September,Oregon,Restaurant,Raw Oysters,Vibrio parahaemolyticus
+2013,September,Minnesota,Catering Service,"Red Beans And Rice; Chicken, Grilled; Brat",
+2013,September,Illinois,Restaurant,"Refried Beans, Unspecified",Salmonella enterica
+2013,January,Ohio,Restaurant,"Refried Beans, Unspecified; Rice",Norovirus genogroup II
+2013,April,Alaska,Private Home/Residence,Reindeer Stew,Clostridium perfringens
+2013,December,Minnesota,Restaurant,Relish Tray,
+2013,June,Michigan,Restaurant,"Ribs, Pork",Salmonella enterica
+2013,September,California,Restaurant,"Ribs, Pork",
+2013,August,Maryland,Restaurant,Rice,Bacillus cereus
+2013,August,Hawaii,Grocery Store,Rice Dishes; Rice Dishes,
+2013,December,New York,Restaurant,Rice Pilaf,
+2013,October,Multistate,Child Daycare; School/College/University,"Rice, Spanish",Chemical or toxin
+2013,November,California,Restaurant,"Rice, Spanish",
+2013,October,California,Restaurant,"Rice, Unspecified",
+2013,August,Puerto Rico,Catering Service,Rice; Potato Salad,Salmonella enterica
+2013,March,Ohio,Catering Service,Roast Beef,Clostridium perfringens
+2013,October,Multistate,Catering Service,"Romaine Lettuce, Unspecified","Escherichia coli, Shiga toxin-producing"
+2013,May,New York,Restaurant,Ropa Vieja,Clostridium perfringens
+2013,June,Massachusetts,Office/Indoor Workplace,Salad Bar,Norovirus genogroup II
+2013,May,New York,Restaurant,"Salad Mix, Bagged",
+2013,June,Multistate,Restaurant,"Salad Mix, Bagged",Cyclospora cayatenensis
+2013,April,Connecticut,Banquet Facility,"Salad, Unspecified",Norovirus genogroup II
+2013,April,Florida,,"Salad, Unspecified",Norovirus genogroup II
+2013,April,Michigan,Catering Service,"Salad, Unspecified","Escherichia coli, Shiga toxin-producing"
+2013,April,Pennsylvania,Restaurant,"Salad, Unspecified",Norovirus genogroup II
+2013,June,Kansas,Restaurant,"Salad, Unspecified",Norovirus genogroup II
+2013,June,New Jersey,Restaurant,"Salad, Unspecified",Norovirus
+2013,September,Connecticut,Banquet Facility,"Salad, Unspecified; Vegetable Tray; Cheese Dish, Other; Dips; Fruit","Escherichia coli, Enteroaggregative"
+2013,January,Hawaii,,Salads,
+2013,April,Maryland,Restaurant,Salads,
+2013,November,Minnesota,Restaurant,Salads; Dessert Unspecified,Norovirus genogroup II
+2013,May,Multistate,Restaurant,"Salmon, Unspecified","Escherichia coli, Shiga toxin-producing"
+2013,July,Michigan,Restaurant,Salsa,Salmonella enterica
+2013,October,California,Fast Food Restaurant,Salsa,Norovirus unknown
+2013,April,Kansas,Restaurant,"Salsa, Tomatillo; Pork, Carnitas",Staphylococcus aureus
+2013,October,Washington,Restaurant,Salsa; Pickeled Carrot And Peppers,Norovirus unknown
+2013,January,California,Restaurant,Sandwich And Salad,Norovirus unknown
+2013,March,Ohio,Fast Food Restaurant,"Sandwich, Chicken",Norovirus
+2013,October,Colorado,Fast Food Restaurant,"Sandwich, Cucumber","Escherichia coli, Shiga toxin-producing"
+2013,August,Louisiana,Restaurant,"Sandwich, Panini",Norovirus genogroup I
+2013,June,Massachusetts,Fast Food Restaurant,"Sandwich, Roast Beef",
+2013,September,Colorado,Fast Food Restaurant,"Sandwich, Roast Beef",
+2013,February,Ohio,Fast Food Restaurant,"Sandwich, Submarine",Norovirus genogroup II
+2013,December,Connecticut,Catering Service,"Sandwich, Submarine",Norovirus genogroup II
+2013,March,Rhode Island,Banquet Facility,"Sandwich, Tuna Fish; Sandwich, Chicken",Norovirus genogroup II
+2013,November,California,Restaurant,"Sandwich, Tuna Salad",Staphylococcus aureus; Bacillus cereus
+2013,May,Michigan,Fast Food Restaurant,"Sandwich, Unspecified",
+2013,May,New Hampshire,Fast Food Restaurant,"Sandwich, Unspecified",Norovirus genogroup II
+2013,June,Ohio,Catering Service,"Sandwich, Unspecified",Clostridium perfringens
+2013,June,Pennsylvania,Religious Facility,"Sandwich, Unspecified",Staphylococcus aureus
+2013,January,Michigan,Restaurant,"Sandwich, Unspecified; Salad, Unspecified",Salmonella enterica
+2013,April,Nevada,Restaurant,"Sausage, Pork",Salmonella enterica
+2013,July,Alaska,Private Home/Residence,"Seal, Oil; Seal, Muktuk",
+2013,August,Georgia,Private Home/Residence,"Shrimp Dishes Unspecified; Chips, Tortilla",
+2013,May,Wyoming,Restaurant,"Shrimp, Steamed; Shrimp; Ice, Unspecified; Ice Cream, Commercial",Norovirus genogroup II
+2013,March,Tennessee,Restaurant,"Soup, Chicken",Clostridium perfringens
+2013,August,Ohio,Fair/Festival,"Soup, Specialty",Norovirus
+2013,December,Hawaii,School/College/University,Spaghetti W/Meat Sauce And Spaghetti W/Cheese,Staphylococcus aureus
+2013,November,Georgia,Restaurant,"Spaghetti, Unspecified; Eggplant, Unspecified",Norovirus genogroup I
+2013,December,Ohio,Private Home/Residence,Steak,Salmonella enterica
+2013,March,Tennessee,Restaurant,"Steak, Unspecified",Clostridium perfringens
+2013,August,Texas,,Steak; Mashed Potato/Gravy; Caesar Salad,
+2013,June,Alaska,Unknown,Stink Heads,
+2013,May,Colorado,Private Home/Residence,Strawberries,Hepatitis A
+2013,November,Ohio,Private Home/Residence,Stuffing/Dressing,Salmonella enterica
+2013,June,Multistate,Fast Food Restaurant; Restaurant,Sugarcane,Salmonella enterica
+2013,May,Minnesota,Restaurant,Sushi,Scombroid toxin
+2013,June,California,Restaurant,Sushi,Norovirus unknown
+2013,August,California,Restaurant,Sushi,Salmonella enterica
+2013,August,California,Restaurant,Sushi (Korean Kimbap),Ciguatoxin
+2013,June,California,Restaurant,"Sushi, Raw",Shigella flexneri
+2013,July,Nebraska,Restaurant,"Sushi, Unspecified",Salmonella enterica
+2013,November,Alaska,Restaurant,"Sushi, Unspecified",
+2013,December,Connecticut,Catering Service,"Sushi, Unspecified",Norovirus genogroup II
+2013,August,Idaho,,"Sushi, Various Types",Norovirus
+2013,April,Minnesota,Restaurant,"Szechuan Green Beans; Sandwich, Unspecified",Norovirus genogroup I
+2013,April,Pennsylvania,Restaurant,"Taco, Fish",Scombroid toxin
+2013,February,Multistate,Private Home/Residence,Tahini,Salmonella enterica; Salmonella enterica
+2013,November,Michigan,Restaurant,"Thai Chicken Lettuce Wrap; Salad, Unspecified; Chicken, Grilled",Salmonella enterica
+2013,May,Virginia,Restaurant,Tomato Mozarella Sandwich; Feta Salad; Southwest Turkey Sandwich,Norovirus
+2013,May,California,School/College/University,"Tomatoes, Raw",Salmonella enterica
+2013,January,Wisconsin,Restaurant,Tortilla Chips,Norovirus genogroup II
+2013,December,California,Restaurant,Tortilla Chips,Norovirus unknown
+2013,July,New York,Private Home/Residence,Tuna Burger,Scombroid toxin
+2013,August,New York,Restaurant,Tuna Burger,Scombroid toxin
+2013,June,Maryland,Private Home/Residence,Tuna Kabobs,Scombroid toxin
+2013,June,Wisconsin,Restaurant,Tuna Salad,Scombroid toxin
+2013,August,New York,Grocery Store,Tuna Steak,Scombroid toxin
+2013,December,Virginia,Restaurant,Tuna Steak,Histamine
+2013,May,New York,,"Tuna, Grilled",Scombroid toxin
+2013,April,California,Restaurant,"Tuna, Grounded",Scombroid toxin
+2013,November,Washington,Restaurant,"Tuna, Raw",Scombroid toxin
+2013,September,Missouri,Private Home/Residence,Turkey,Salmonella enterica
+2013,November,Colorado,Private Home/Residence,Turkey,Salmonella enterica
+2013,November,South Carolina,School/College/University,Turkey And Gravy,Staphylococcus aureus
+2013,November,Florida,Restaurant,Turkey And Stuffing,Clostridium perfringens
+2013,September,Massachusetts,Fair/Festival,Turkey Leg,Salmonella enterica
+2013,November,Tennessee,Restaurant; Private Home/Residence,"Turkey, Smoked",
+2013,December,Georgia,Catering Service,"Turkey, Smoked",Clostridium perfringens
+2013,April,Minnesota,Restaurant,Turkey; Coleslaw,Sapovirus
+2013,November,Virginia,Private Home/Residence; Catering Service,"Turkey; Stuffing, Unspecified; Potato, Mashed",
+2013,November,Texas,Private Home/Residence,Turshi,Clostridium botulinum
+2013,October,Illinois,Fast Food Restaurant,Tuscan Chicken Subs; Tuscan Chicken Salads,
+2013,June,Wisconsin,Fast Food Restaurant,Vegetables,Salmonella enterica
+2013,May,Minnesota,Private Home/Residence,Watermelon,Salmonella enterica
+2013,October,Alabama,Religious Facility,White Beans With Ham,Salmonella enterica
+2013,September,Massachusetts,Fair/Festival,Wraps (Chicken Or Falafel) And Ham Sandwiches,Salmonella enterica
+2013,May,Florida,,Yellow Fin Tuna,Scombroid toxin
+2013,June,New York,Restaurant,Yellow Fin Tuna,Scombroid toxin
+2013,March,New York,Restaurant,Yellowfin Tuna,Scombroid toxin
+2013,April,Florida,Restaurant,Yellowfin Tuna,Scombroid toxin
+2013,August,California,Office/Indoor Workplace,Yellowfin Tuna,Scombroid toxin
+2013,July,Ohio,Restaurant,Yoba Salad; Guacamole,Norovirus genogroup II
